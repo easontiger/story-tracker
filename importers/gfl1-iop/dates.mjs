@@ -20,7 +20,7 @@ export function applyDates(output, data = reference) {
   const nodes = output.catalog.nodes.map(node => {
     const projectKey = node.parentKey ?? node.sourceKey;
     let releasedAt = projects.get(projectKey) ?? null;
-    if (node.storyLineId === 'main' && /^Night /.test(node.title)) {
+    if (node.storyLineId === 'main' && /^(?:Night |夜战 )/.test(node.title)) {
       const episode = Number(projectKey.match(/:episode:(\d+)$/)?.[1]);
       releasedAt = night.get(episode) ?? null;
     }

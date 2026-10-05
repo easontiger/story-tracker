@@ -1,7 +1,7 @@
 {
   "apiVersion": 1,
   "id": "gfl1-iop",
-  "name": "少女前线 · IOP剧情",
+  "name": "少女前线 · IOP／GFWiki剧情",
   "gameId": "girls-frontline",
   "runtime": "node",
   "entry": "index.mjs",

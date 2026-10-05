@@ -1,6 +1,7 @@
 import { createHash } from 'node:crypto';
 import { load } from 'cheerio';
 import { applyDates } from './dates.mjs';
+import { applyNames } from './names.mjs';
 
 const sections = new Map([
   ['Main Story', ['main', '主线章节']],
@@ -53,7 +54,7 @@ export function readHtml(html) {
   return groups;
 }
 
-export function parseGroups(groups, baseline = []) {
+export function parseGroups(groups, baseline = [], { localize = true } = {}) {
   if (!Array.isArray(groups) || !groups.length) throw new Error('剧情列表为空');
   const warnings = ['IOP 使用英文关卡名；目录涵盖国服主线结局，但不作为任何服务器的开放进度证明。', '日期使用国服章节／活动首次开放日；夜战使用独立开放日。'];
   const nodes = [], seen = new Set();
@@ -90,10 +91,11 @@ export function parseGroups(groups, baseline = []) {
     }
   }
   if (!nodes.length) throw new Error('没有可导入关卡');
-  return applyDates({ apiVersion: 1, catalog: { importerId: 'gfl1-iop', game: { id: 'girls-frontline', title: '少女前线' }, storyLines: [...sections.values()].filter(([id]) => nodes.some(n => n.storyLineId === id)).map(([id, title], order) => ({ id, title, order })), nodes }, warnings });
+  const output = applyDates({ apiVersion: 1, catalog: { importerId: 'gfl1-iop', game: { id: 'girls-frontline', title: '少女前线' }, storyLines: [...sections.values()].filter(([id]) => nodes.some(n => n.storyLineId === id)).map(([id, title], order) => ({ id, title, order })), nodes }, warnings });
+  return localize ? applyNames(output) : output;
 }
 
-export function parseLive(html, snapshot) {
+export function parseLive(html, snapshot, options) {
   const groups = readHtml(html);
   const missing = snapshot.groups.filter(old => !groups.some(g => groupKey(g) === groupKey(old)));
   const reduced = snapshot.groups.filter(old => {
@@ -101,5 +103,5 @@ export function parseLive(html, snapshot) {
     return current && current.stages.length < old.stages.length;
   });
   if (missing.length || reduced.length) throw new Error('IOP 列表缺少已知章节或关卡，停止更新，避免误归档');
-  return parseGroups(groups, snapshot.groups);
+  return parseGroups(groups, snapshot.groups, options);
 }

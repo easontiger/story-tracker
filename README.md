@@ -1,6 +1,6 @@
 # Story Tracker
 
-本地剧情观看进度工具。当前试用版为 **0.1.0 · Windows x64 便携版**，附带明日方舟、少女前线、少女前线2：追放和蔚蓝档案的剧情目录。
+本地剧情观看进度工具。当前试用版为 **0.1.1 · Windows x64 便携版**，附带明日方舟、少女前线、少女前线2：追放和蔚蓝档案的剧情目录。
 
 程序记录目录和观看进度，不提供剧情正文或视频文件。
 
@@ -43,6 +43,8 @@
 
 升级前备份数据，然后将新版完整解压到另一个目录。关闭程序，将旧版的 `data/` 文件夹复制到新版程序旁，再启动新版。发布 ZIP 中的 `data/` 预置四个游戏的剧情目录，不包含个人观看记录。
 
+从 0.1.0 升级到 0.1.1 时，迁移旧 `data/` 后，在「导入 / 更新」选择「少女前线 · 本地数据」，生成更新预览并确认，才能将旧目录更新为核对后的中文名称；观看标记继续保留。若自行追加过剧情，先检查预览中的归档项。
+
 本便携版不自动读取旧版保存在用户目录中的记录。如需迁移，先关闭新旧程序，将已备份的旧数据库及配套文件复制到便携版 `data/` 中，保留文件名。
 
 自行追加过剧情后，重新导入旧的完整目录可能将新增项目归档。完整更新前检查预览中的归档项；新增活动优先使用「追加记录」。
@@ -56,7 +58,7 @@
 | 游戏 | 数据说明 |
 | --- | --- |
 | 明日方舟 | 剧情目录来自 PRTS，日期采用首次开放日期。 |
-| 少女前线 | 目录整理于 2026-10-04，关卡名使用英文；日期采用国服首次开放日，夜战单独记录。 |
+| 少女前线 | IOP 目录整理于 2026-10-04；2026-10-05 对照 GFWiki 核实 936 个名称，未核实项保留原名；日期采用国服首次开放日，夜战单独记录。 |
 | 少女前线2：追放 | 日期采用国服首次开放日；战前与战后合并记录，第0章按一个剧情记录；部分视频链接包含多个关卡。 |
 | 蔚蓝档案 | 目录包含国服尚未开放内容；活动与主线使用国服首次开放日期，其他类型暂不记录日期；不计入独立小游戏剧情和网页活动。 |
 
@@ -70,7 +72,7 @@
 ## 数据来源
 
 - 明日方舟：[PRTS 剧情一览](https://prts.wiki/w/剧情一览)、[活动一览](https://prts.wiki/w/活动一览)。
-- 少女前线：[IOP Wiki Story](https://iopwiki.com/wiki/Story) 及对应章节／活动页面。
+- 少女前线：[IOP Wiki Story](https://iopwiki.com/wiki/Story) 提供目录与日期参考；[GFWiki 剧情整理](https://gfwiki.org/w/剧情整理)及对应页面用于中文名称核对。
 - 少女前线2：[收藏没有福利的天依](https://space.bilibili.com/193691415)、[泠喵喵喵喵](https://space.bilibili.com/6478956) 的剧情视频目录与分集名称，并结合游戏目录人工核对；日期参照 [IOP Wiki GFL2 Events](https://iopwiki.com/wiki/GFL2_Events)。具体视频来源保存在各剧情节点中。
 - 蔚蓝档案：[electricgoat/ba-data](https://github.com/electricgoat/ba-data)、[SchaleDB 简中角色数据](https://github.com/SchaleDB/SchaleDB/blob/70a2c4b8982ca860687898e61848847a60ffe3b8/data/cn/students.json)、[国服官网](https://bluearchive-cn.com/)，以及人工核对的 Bilibili 分集标题。具体来源链接保存在数据中。
 
@@ -79,7 +81,7 @@
 感谢以下 Wiki、数据维护者与视频作者提供的剧情目录、开放日期和标题对照资料：
 
 - **明日方舟**：[PRTS](https://prts.wiki/)。
-- **少女前线**：[IOP Wiki](https://iopwiki.com/)。
+- **少女前线**：[IOP Wiki](https://iopwiki.com/)、[GFWiki](https://gfwiki.org/)。
 - **少女前线2：追放**：[IOP Wiki](https://iopwiki.com/)，以及 UP 主 [收藏没有福利的天依](https://space.bilibili.com/193691415)、[泠喵喵喵喵](https://space.bilibili.com/6478956)。
 - **蔚蓝档案**：[electricgoat/ba-data](https://github.com/electricgoat/ba-data)、[SchaleDB](https://github.com/SchaleDB/SchaleDB)，以及 UP 主 [player0520](https://space.bilibili.com/456162506)、[威威字幕君](https://space.bilibili.com/7045822)、[Modlinks](https://space.bilibili.com/3537121453279854)、[EastSummer_东夏](https://space.bilibili.com/1696052)、[by北辰y](https://space.bilibili.com/602821873)。
 

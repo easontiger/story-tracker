@@ -18,7 +18,7 @@ function publicWarnings(output) {
       if (!date) throw new Error('Missing Girls Frontline data date');
       return [
         '剧情目录整理于 ' + date + '；目录内容不代表任何服务器当前开放进度。',
-        '关卡名称使用英文。',
+        output.warnings.find(s => s.startsWith('中文名称对照核对于 ')) ?? '未核实的中文名称保留 IOP 原名。',
         '日期采用国服章节／活动首次开放日；夜战使用独立开放日。',
       ];
     }

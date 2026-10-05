@@ -18,7 +18,9 @@ PRTS 及其贡献者的相关目录整理内容，以及本项目对这些内容
 
 IOP Wiki 及其贡献者的相关社区文字内容按 [CC BY-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/) 使用，保留署名、来源、许可链接与修改说明，适用的改编内容按相同许可共享。许可范围见 [IOP Wiki 声明](https://iopwiki.com/wiki/IOP_Wiki:General_disclaimer)。
 
-署名：IOP Wiki 及其贡献者；Story Tracker contributors 整理。少前1保留英文关卡名并补充国服首次开放日期；少前2另做标题整理、多关卡拆分、战前战后合并及第0章合并。
+署名：IOP Wiki 及其贡献者；Story Tracker contributors 整理。少前1保留 IOP 的记录标识并补充国服首次开放日期、核对部分中文名称；少前2另做标题整理、多关卡拆分、战前战后合并及第0章合并。
+
+少前1中文名称另参考 [GFWiki 剧情整理](https://gfwiki.org/w/剧情整理)及对应剧情页面。GFWiki 及其贡献者的相关社区整理内容采用页脚链接的 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，相关中文对照整理保留署名、来源与修改说明，并按相同许可共享；此许可与 IOP 来源内容的许可分别适用于各自内容。
 
 少前2视频目录参考：[收藏没有福利的天依](https://space.bilibili.com/193691415)、[泠喵喵喵喵](https://space.bilibili.com/6478956)。具体视频链接保存在节点中。
 

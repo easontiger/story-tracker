@@ -3,7 +3,10 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { parseImportResult } from '../../src/catalog.ts';
 import { applyDates } from './dates.mjs';
-import { readHtml, parseGroups, parseLive } from './parser.mjs';
+import { readHtml, parseGroups as parseLocalized, parseLive as parseLocalizedLive } from './parser.mjs';
+import { applyNames } from './names.mjs';
+const parseGroups = (groups, baseline) => parseLocalized(groups, baseline, { localize: false });
+const parseLive = (html, snapshot) => parseLocalizedLive(html, snapshot, { localize: false });
 const snapshot = JSON.parse(readFileSync(new URL('./story-list.json', import.meta.url), 'utf8'));
 const group = (stages) => ({ section: 'Main Story', title: 'Episode 01 - Awakening', stages: stages.map(title => ({ title })) });
 const html = groups => '<div class="mw-parser-output">' + groups.map(g => '<h2>' + g.section + '</h2><h3>' + g.title + '</h3>' + g.stages.map(s => '<h4>' + s.title + '</h4><p>Part1 (Script) - Part2 (Script)</p>').join('')).join('') + '</div>';
@@ -73,4 +76,33 @@ test('新章节不猜日期，异常或外服日期表拒绝使用', () => {
   const projects = [{ server: 'EN', releasedAt: '2020-01-01', sourceKey: 'test' }];
   assert.throws(() => applyDates(output, { projects, night: [] }), /国服日期表/);
   assert.throws(() => applyDates(output, { projects: [{ ...projects[0], server: 'CN', releasedAt: '2020-02-30' }], night: [] }), /国服日期表/);
+});
+
+test('中文名称覆盖不改变剧情标识、层级、日期或排序', () => {
+  const before = parseGroups(snapshot.groups);
+  const after = parseLocalized(snapshot.groups);
+  parseImportResult(after);
+  assert.equal(after.catalog.nodes.length, 1276);
+  assert.deepEqual(applyDates(after).catalog.nodes, after.catalog.nodes);
+  assert.deepEqual(after.catalog.nodes.map(({ title, sourceUrl, ...node }) => node),
+    before.catalog.nodes.map(({ title, sourceUrl, ...node }) => node));
+  assert(after.catalog.nodes.some(n => n.title === '普通 1-1：演习训练'));
+  assert(after.catalog.nodes.some(n => n.title === '焙炒爱意'));
+  assert(after.catalog.nodes.some(n => n.title === '里坎禁猎区'));
+  // Differing source order never becomes a translation-by-index rule.
+  assert(after.catalog.nodes.some(n => n.title === 'E1-B：调和模拟'));
+  assert(after.catalog.nodes.some(n => n.title === 'E1-1B：帷幕将升I'));
+  assert(after.catalog.nodes.some(n => n.title === 'E1-1B：帷幕将升II'));
+});
+test('来源改名时不套用旧中文名，异常对照表拒绝使用', () => {
+  const before = parseGroups(snapshot.groups);
+  const key = before.catalog.nodes.find(n => n.title === 'Normal 1-1: Drill').sourceKey;
+  const modified = { ...before, catalog: { ...before.catalog, nodes: before.catalog.nodes.map(n =>
+    n.sourceKey === key ? { ...n, title: 'Normal 1-1: A different story' } : n) } };
+  const after = applyNames(modified);
+  assert.equal(after.catalog.nodes.find(n => n.sourceKey === key).title, 'Normal 1-1: A different story');
+  assert(after.warnings.some(s => s.includes('来源标题已变化')));
+  assert.throws(() => applyNames(before, { checkedAt: '2026-10-05', names: {
+    [key]: { originalTitle: 'Normal 1-1: Drill', title: '演习训练', sourceTitle: '演习训练', sourceUrl: 'http://invalid' }
+  } }), /对照条目无效/);
 });
