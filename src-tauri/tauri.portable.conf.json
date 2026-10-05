@@ -1,0 +1,6 @@
+{
+  "identifier": "local.story-tracker",
+  "app": {
+    "appDirectoriesOverride": "./data"
+  }
+}

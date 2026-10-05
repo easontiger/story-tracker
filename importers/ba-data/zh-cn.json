@@ -1,0 +1,1947 @@
+{
+  "checkedAt": "2026-10-04",
+  "names": [
+    {
+      "code": "Main_Volume_Title_1",
+      "title": "Vol.1 对策委员会篇",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Volume_Title_2",
+      "title": "Vol.2 发条之花的帕凡舞曲篇",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Volume_Title_3",
+      "title": "Vol.3 伊甸园条约篇",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Volume_Title_4",
+      "title": "Vol.4 卡班诺的兔子篇",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Volume_Title_5",
+      "title": "Vol.5 百花缭乱篇",
+      "source": "https://bluearchive-cn.com/news/1467"
+    },
+    {
+      "code": "Main_Volume_Title_100",
+      "title": "Final. 一切奇迹的起点篇",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "SpecialOperation_Volume_Title_1",
+      "title": "Ex. 神明十文字篇",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "Main_Chapter_Title_2_1",
+      "title": "复古式浪漫",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Chapter_Title_3_3",
+      "title": "我们的故事",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Chapter_Title_4_1",
+      "title": "RABBIT小队，作战开始！",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Chapter_Title_100_1",
+      "title": "沙勒夺回战",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Event_Name_808",
+      "title": "227号温泉乡运营记录！～白色气息相偎相依~",
+      "source": "https://bluearchive-cn.com/news/1467"
+    },
+    {
+      "code": "Event_Name_809",
+      "title": "新春狂想曲第68号",
+      "source": "https://bluearchive-cn.com/news/1467"
+    },
+    {
+      "code": "Event_Name_819",
+      "title": "圣堂的圣夜祝福 ~救护骑士团的礼物~",
+      "source": "https://bluearchive-cn.com/news/1467"
+    },
+    {
+      "code": "Event_Name_833",
+      "title": "阳光绽放 她们的小夜曲",
+      "source": "https://bluearchive-cn.com/news/1467"
+    },
+    {
+      "code": "Event_Name_803",
+      "title": "夏日天空的愿望清单",
+      "source": "https://www.gamekee.com/ba/602938.html"
+    },
+    {
+      "code": "Event_Name_834",
+      "title": "0068 来自歌剧的爱！",
+      "source": "https://www.gamekee.com/ba/675647.html"
+    },
+    {
+      "code": "Event_Name_845",
+      "title": "Pray-Ball! 目标：满贯本垒打~",
+      "source": "https://www.gamekee.com/ba/712881.html"
+    },
+    {
+      "code": "Sub_Volume_Title_6",
+      "title": "供餐部",
+      "source": "https://bbs.4399.cn/thread-view-tid-39882949"
+    },
+    {
+      "code": "Sub_Chapter_Title_6_1",
+      "title": "供餐部",
+      "source": "https://bbs.4399.cn/thread-view-tid-39882949"
+    },
+    {
+      "code": "Sub_Volume_Title_8",
+      "title": "正义实现部",
+      "source": "https://bbs.4399.cn/thread-view-tid-39882949"
+    },
+    {
+      "code": "Sub_Chapter_Title_8_1",
+      "title": "正义实现部",
+      "source": "https://bbs.4399.cn/thread-view-tid-39882949"
+    },
+    {
+      "code": "Sub_Volume_Title_10",
+      "title": "甜点部",
+      "source": "https://bbs.4399.cn/thread-view-tid-39882949"
+    },
+    {
+      "code": "Sub_Chapter_Title_10_1",
+      "title": "甜点部",
+      "source": "https://bbs.4399.cn/thread-view-tid-39882949"
+    },
+    {
+      "code": "Mini_Volume_Title_2",
+      "title": "浴场档案",
+      "source": "https://bluearchive-cn.com/news/1467"
+    },
+    {
+      "code": "Mini_Chapter_Title_2_1",
+      "title": "浴场档案",
+      "source": "https://bluearchive-cn.com/news/1467"
+    },
+    {
+      "code": "Event_Name_807",
+      "title": "初音未来的特别演唱会 in 基沃托斯 ～预演篇～",
+      "source": "https://www.gamekee.com/ba/second/104484"
+    },
+    {
+      "code": "Event_Name_80000",
+      "title": "情人节的特别约定",
+      "source": "https://www.taptap.cn/moment/760497778089526674"
+    }
+  ],
+  "episodes": [
+    {
+      "code": "Main_Episode_Title_2_1_1",
+      "title": "冒险开始",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_2",
+      "title": "研讨会会计优香",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_3",
+      "title": "前往废墟",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_4",
+      "title": "那一天，我们遇到了少女",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_5",
+      "title": "我是爱丽丝",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_6",
+      "title": "学习语言的方法",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_7",
+      "title": "这么大也叫枪？",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_8",
+      "title": "资格审查",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_9",
+      "title": "优香的提问",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_10",
+      "title": "重返废墟",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_11",
+      "title": "所寻之物，所在之处",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_12",
+      "title": "寻找“镜子”",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_13",
+      "title": "Nerd VS Maid",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_14",
+      "title": "女仆 VS 大师",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_15",
+      "title": "危机蔓延",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_16",
+      "title": "仅需再向前一步！",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_17",
+      "title": "无法结束的战斗",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_18",
+      "title": "G.Bible",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_19",
+      "title": "代号00",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_2_1_20",
+      "title": "千禧年奖",
+      "source": "https://bluearchive-cn.com/news/224"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_1",
+      "title": "事后剖析 1",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_2",
+      "title": "事后剖析 2",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_3",
+      "title": "事后剖析 3",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_4",
+      "title": "之后的故事",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_5",
+      "title": "伊甸园条约签字仪式 1",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_6",
+      "title": "伊甸园条约签字仪式 2",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_7",
+      "title": "火与灰之日 1",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_8",
+      "title": "火与灰之日 2",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_9",
+      "title": "憎恨的滋味",
+      "source": "https://bluearchive-cn.com/news/488"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_10",
+      "title": "甜蜜的谎言",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_11",
+      "title": "混乱加剧 1",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_12",
+      "title": "混乱加剧 2",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_13",
+      "title": "触不到的彼岸",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_14",
+      "title": "黑暗中的一束光",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_15",
+      "title": "第五条古则的答案",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_16",
+      "title": "零散的碎片",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_17",
+      "title": "憎恨的真面目",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_18",
+      "title": "坚定不移",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_19",
+      "title": "我们的故事",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_20",
+      "title": "乐园之名 1",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_21",
+      "title": "乐园之名 2",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_22",
+      "title": "乐园之名 3",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_23",
+      "title": "古圣堂的地下",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_24",
+      "title": "不属于我们的憎恨",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_3_3_25",
+      "title": "尾声",
+      "source": "https://bluearchive-cn.com/news/526"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_1",
+      "title": "失控的特种部队",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_2",
+      "title": "公园的不速之客",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_3",
+      "title": "她们各自的故事",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_4",
+      "title": "主任口中的故事",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_5",
+      "title": "无法打消的怀疑",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_6",
+      "title": "粮食调拨行动",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_7",
+      "title": "胡萝卜行动 1",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_8",
+      "title": "胡萝卜行动 2",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_9",
+      "title": "可疑的影子",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_10",
+      "title": "无欲无求和烤肉便当",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_4_1_11",
+      "title": "暴雨预警",
+      "source": "https://bluearchive-cn.com/news/685"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_1",
+      "title": "序章",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_2",
+      "title": "灾难",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_3",
+      "title": "日常生活的裂痕 1",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_4",
+      "title": "日常生活的裂痕 2",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_5",
+      "title": "日常生活的裂痕 3",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_6",
+      "title": "前兆",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_7",
+      "title": "紧急对策委员会的召集",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_8",
+      "title": "光的到来",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_9",
+      "title": "冲突 1",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_10",
+      "title": "冲突 2",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_11",
+      "title": "逃生 1",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_12",
+      "title": "逃生 2",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_13",
+      "title": "沙勒夺回战 1",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_14",
+      "title": "沙勒夺回战 2",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "Main_Episode_Title_100_1_15",
+      "title": "被颠覆的故事",
+      "source": "https://bluearchive-cn.com/news/1170"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_1",
+      "title": "重返冰海",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_2",
+      "title": "调查",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_3",
+      "title": "第二次",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_4",
+      "title": "重逢",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_5",
+      "title": "变量",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_6",
+      "title": "火花",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_7",
+      "title": "探索",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_8",
+      "title": "获刻玛",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_9",
+      "title": "战术上的胜利",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_10",
+      "title": "无名众神的遗产",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_11",
+      "title": "绝路",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "SpecialOperation_Episode_Title_1_2_12",
+      "title": "提案",
+      "source": "https://bluearchive-cn.com/news/1754"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_1",
+      "title": "欢迎来到对策委员会！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_2",
+      "title": "在阿拜多斯的第一天",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_3",
+      "title": "大人的力量真了不起！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_4",
+      "title": "委员会的隐情",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_5",
+      "title": "芹香平凡的一天",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_6",
+      "title": "救援行动！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_7",
+      "title": "新一轮的威胁？",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_8",
+      "title": "便利屋登场！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_9",
+      "title": "忘恩负义的血战",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_10",
+      "title": "寻找线索",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_11",
+      "title": "前往黑市1",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_12",
+      "title": "前往黑市2",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_13",
+      "title": "出动！蒙面泳装团1",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_14",
+      "title": "出动！蒙面泳装团2",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_15",
+      "title": "向着夕阳前进！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_16",
+      "title": "真相浮出水面",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_17",
+      "title": "乌云密布",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_18",
+      "title": "才不是什么朋友！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_19",
+      "title": "你们这些家伙，不可原谅！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    },
+    {
+      "code": "Main_Episode_Title_1_1_20",
+      "title": "风纪委员会，参战！",
+      "source": "https://www.bilibili.com/video/BV1XV41137qt/"
+    }
+  ],
+  "events": [
+    {
+      "eventId": 821,
+      "recordId": 359,
+      "order": 1,
+      "groups": [
+        10019005
+      ],
+      "title": "开战",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=1"
+    },
+    {
+      "eventId": 821,
+      "recordId": 360,
+      "order": 2,
+      "groups": [
+        10019010
+      ],
+      "title": "第1圣塔（1）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=2"
+    },
+    {
+      "eventId": 821,
+      "recordId": 361,
+      "order": 3,
+      "groups": [
+        10019015
+      ],
+      "title": "第1圣塔（2）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=2"
+    },
+    {
+      "eventId": 821,
+      "recordId": 362,
+      "order": 4,
+      "groups": [
+        10019020
+      ],
+      "title": "第2圣塔（1）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=3"
+    },
+    {
+      "eventId": 821,
+      "recordId": 363,
+      "order": 5,
+      "groups": [
+        10019025
+      ],
+      "title": "第2圣塔（2）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=3"
+    },
+    {
+      "eventId": 821,
+      "recordId": 364,
+      "order": 6,
+      "groups": [
+        10019030
+      ],
+      "title": "第3圣塔（1）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=4"
+    },
+    {
+      "eventId": 821,
+      "recordId": 365,
+      "order": 7,
+      "groups": [
+        10019035
+      ],
+      "title": "第3圣塔（2）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=4"
+    },
+    {
+      "eventId": 821,
+      "recordId": 366,
+      "order": 8,
+      "groups": [
+        10019040
+      ],
+      "title": "第4圣塔（1）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=5"
+    },
+    {
+      "eventId": 821,
+      "recordId": 367,
+      "order": 9,
+      "groups": [
+        10019045
+      ],
+      "title": "第4圣塔（2）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=5"
+    },
+    {
+      "eventId": 821,
+      "recordId": 368,
+      "order": 10,
+      "groups": [
+        10019050
+      ],
+      "title": "第5圣塔（1）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=6"
+    },
+    {
+      "eventId": 821,
+      "recordId": 369,
+      "order": 11,
+      "groups": [
+        10019055
+      ],
+      "title": "第5圣塔（2）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=6"
+    },
+    {
+      "eventId": 821,
+      "recordId": 370,
+      "order": 12,
+      "groups": [
+        10019060
+      ],
+      "title": "新的危机",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=7"
+    },
+    {
+      "eventId": 821,
+      "recordId": 371,
+      "order": 13,
+      "groups": [
+        10019070
+      ],
+      "title": "第6圣塔（1）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=8"
+    },
+    {
+      "eventId": 821,
+      "recordId": 372,
+      "order": 14,
+      "groups": [
+        10019075
+      ],
+      "title": "第6圣塔（2）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=8"
+    },
+    {
+      "eventId": 821,
+      "recordId": 373,
+      "order": 15,
+      "groups": [
+        10019080
+      ],
+      "title": "最终圣塔（1）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=9"
+    },
+    {
+      "eventId": 821,
+      "recordId": 374,
+      "order": 16,
+      "groups": [
+        10019085
+      ],
+      "title": "最终圣塔（2）",
+      "source": "https://www.bilibili.com/video/BV1MA411C7Qu/?p=9"
+    },
+    {
+      "eventId": 810,
+      "recordId": 115,
+      "order": 2,
+      "groups": [
+        10009005
+      ],
+      "title": "情人节的工作2",
+      "source": "https://github.com/electricgoat/ba-data/blob/5c2c32b616c6b69bbbf76666116291e57e4a7855/DB/EventContentScenarioExcelTable.json",
+      "note": "用户阅读待核对正文后确认名称：情人节的工作2"
+    },
+    {
+      "eventId": 810,
+      "recordId": 114,
+      "order": 1,
+      "groups": [
+        10009000
+      ],
+      "title": "情人节的工作1",
+      "source": "https://github.com/electricgoat/ba-data/blob/5c2c32b616c6b69bbbf76666116291e57e4a7855/DB/ScenarioScriptExcelTable2.json",
+      "note": "用户要求原“情人节的工作”加序号1，与记录115的“情人节的工作2”区分"
+    },
+    {
+      "eventId": 815,
+      "recordId": 253,
+      "order": 4,
+      "groups": [
+        10013030
+      ],
+      "title": "硫磺矿工们（1）",
+      "source": "https://www.bilibili.com/video/BV1qm4y1M74a/?p=4"
+    },
+    {
+      "eventId": 815,
+      "recordId": 254,
+      "order": 5,
+      "groups": [
+        10013035
+      ],
+      "title": "硫磺矿工们（2）",
+      "source": "https://www.bilibili.com/video/BV1qm4y1M74a/?p=5"
+    },
+    {
+      "eventId": 815,
+      "recordId": 256,
+      "order": 7,
+      "groups": [
+        10013050
+      ],
+      "title": "白耳怪物们（1）",
+      "source": "https://www.bilibili.com/video/BV1qm4y1M74a/?p=7"
+    },
+    {
+      "eventId": 815,
+      "recordId": 257,
+      "order": 8,
+      "groups": [
+        10013055
+      ],
+      "title": "白耳怪物们（2）",
+      "source": "https://www.bilibili.com/video/BV1qm4y1M74a/?p=8"
+    },
+    {
+      "eventId": 815,
+      "recordId": 258,
+      "order": 9,
+      "groups": [
+        10013060
+      ],
+      "title": "玄武的使者们（1）",
+      "source": "https://www.bilibili.com/video/BV1qm4y1M74a/?p=9"
+    },
+    {
+      "eventId": 815,
+      "recordId": 259,
+      "order": 10,
+      "groups": [
+        10013065
+      ],
+      "title": "玄武的使者们（2）",
+      "source": "https://www.bilibili.com/video/BV1qm4y1M74a/?p=10"
+    },
+    {
+      "eventId": 822,
+      "recordId": 375,
+      "order": 1,
+      "groups": [
+        10020005
+      ],
+      "title": "阿特拉哈西斯方舟占领战开始",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=16",
+      "note": "活动01；视频标题“占领站”按活动名称修正为“占领战”"
+    },
+    {
+      "eventId": 822,
+      "recordId": 376,
+      "order": 2,
+      "groups": [
+        10020010
+      ],
+      "title": "进入外围第一区域（1）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=17",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 822,
+      "recordId": 377,
+      "order": 3,
+      "groups": [
+        10020015
+      ],
+      "title": "进入外围第一区域（2）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=17",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 822,
+      "recordId": 378,
+      "order": 4,
+      "groups": [
+        10020020
+      ],
+      "title": "进入外围第二区域（1）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=18",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 822,
+      "recordId": 379,
+      "order": 5,
+      "groups": [
+        10020025
+      ],
+      "title": "进入外围第二区域（2）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=18",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 822,
+      "recordId": 380,
+      "order": 6,
+      "groups": [
+        10020030
+      ],
+      "title": "进入外围第三区域（1）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=19",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 822,
+      "recordId": 381,
+      "order": 7,
+      "groups": [
+        10020035
+      ],
+      "title": "进入外围第三区域（2）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=19",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 822,
+      "recordId": 382,
+      "order": 8,
+      "groups": [
+        10020040
+      ],
+      "title": "进入中央区域（1）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=20",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 822,
+      "recordId": 383,
+      "order": 9,
+      "groups": [
+        10020045
+      ],
+      "title": "进入中央区域（2）",
+      "source": "https://www.bilibili.com/video/BV1WsqNYQEBf/?p=20",
+      "note": "用户确认活动02—05各分（1）（2）"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30001,
+      "order": 1,
+      "groups": [
+        10052010
+      ],
+      "title": "薇娜：深感不同的静观理解者（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=1",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30002,
+      "order": 2,
+      "groups": [
+        10052015
+      ],
+      "title": "薇娜：深感不同的静观理解者（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=2",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30006,
+      "order": 6,
+      "groups": [
+        10052050
+      ],
+      "title": "霍德：由光芒证明的荣耀（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=5",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30007,
+      "order": 7,
+      "groups": [
+        10052055
+      ],
+      "title": "霍德：由光芒证明的荣耀（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=6",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30008,
+      "order": 8,
+      "groups": [
+        10052060
+      ],
+      "title": "凯瑟：最耀眼夺目的至高王冠（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=7",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30009,
+      "order": 9,
+      "groups": [
+        10052065
+      ],
+      "title": "凯瑟：最耀眼夺目的至高王冠（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=8",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30010,
+      "order": 10,
+      "groups": [
+        10052070
+      ],
+      "title": "赫赛德：以慈悲的痛苦定罪的审判者（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=9",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30011,
+      "order": 11,
+      "groups": [
+        10052075
+      ],
+      "title": "赫赛德：以慈悲的痛苦定罪的审判者（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=10",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30013,
+      "order": 13,
+      "groups": [
+        10052090
+      ],
+      "title": "霍刻玛：守护王国的古代守护者（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=12",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30014,
+      "order": 14,
+      "groups": [
+        10052095
+      ],
+      "title": "霍刻玛：守护王国的古代守护者（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=13",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30015,
+      "order": 15,
+      "groups": [
+        10052100
+      ],
+      "title": "葛夫拉：超乎常理的勇猛仲裁者（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=14",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30016,
+      "order": 16,
+      "groups": [
+        10052105
+      ],
+      "title": "葛夫拉：超乎常理的勇猛仲裁者（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=15",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30017,
+      "order": 17,
+      "groups": [
+        10052110
+      ],
+      "title": "提法瑞特：颂扬苦难的美之赎罪者（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=16",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30018,
+      "order": 18,
+      "groups": [
+        10052115
+      ],
+      "title": "提法瑞特：颂扬苦难的美之赎罪者（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=17",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30020,
+      "order": 20,
+      "groups": [
+        10052130
+      ],
+      "title": "耶索德：立于基础之上的力量净化者（1）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=19",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30021,
+      "order": 21,
+      "groups": [
+        10052135
+      ],
+      "title": "耶索德：立于基础之上的力量净化者（2）",
+      "source": "https://www.bilibili.com/video/BV1SKzGB5EKF/?p=20",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30025,
+      "order": 25,
+      "groups": [
+        10052170
+      ],
+      "title": "达阿特（2）",
+      "source": "https://github.com/electricgoat/ba-data/blob/5c2c32b616c6b69bbbf76666116291e57e4a7855/DB/EventContentScenarioExcelTable.json",
+      "note": "用户确认核对文件【53】对应此条；纠正此前按相邻标题归为马尔库特的错误推断"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30026,
+      "order": 26,
+      "groups": [
+        10052175
+      ],
+      "title": "达阿特（3）前",
+      "source": "https://github.com/electricgoat/ba-data/blob/5c2c32b616c6b69bbbf76666116291e57e4a7855/DB/EventContentScenarioExcelTable.json",
+      "note": "用户确认核对文件【54】对应此条；纠正此前按相邻标题归为马尔库特的错误推断"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30027,
+      "order": 27,
+      "groups": [
+        10052180
+      ],
+      "title": "震怒之日（1）",
+      "source": "https://www.bilibili.com/video/BV1Y6ZTBHE6U/?p=1",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30028,
+      "order": 28,
+      "groups": [
+        10052190
+      ],
+      "title": "震怒之日（2）",
+      "source": "https://www.bilibili.com/video/BV1Y6ZTBHE6U/?p=2",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    },
+    {
+      "eventId": 854,
+      "recordId": 30029,
+      "order": 29,
+      "groups": [
+        10052195
+      ],
+      "title": "震怒之日（3）",
+      "source": "https://www.bilibili.com/video/BV1Y6ZTBHE6U/?p=4",
+      "note": "用户指定按视频分段和源顺序补后续；名称沿用已导入首段"
+    }
+  ],
+  "eventMerges": [
+    {
+      "eventId": 823,
+      "recordIds": [
+        393,
+        394,
+        395,
+        396,
+        397,
+        398
+      ],
+      "groups": [
+        10021005,
+        10021010,
+        10021015,
+        10021016,
+        10021017,
+        10021020,
+        10021021,
+        10021022
+      ],
+      "title": "诱骗者决战",
+      "source": "https://github.com/electricgoat/ba-data/blob/5c2c32b616c6b69bbbf76666116291e57e4a7855/DB/EventContentScenarioExcelTable.json",
+      "note": "用户确认六个源记录为连战连续剧情，记为同一条"
+    }
+  ],
+  "eventDates": {
+    "server": "CN",
+    "checkedAt": "2026-10-04",
+    "basis": "国服首次活动开放日期；不采用复刻、常驻化、公告发布日期或其他服务器时间。",
+    "entries": [
+      {
+        "eventId": 801,
+        "releasedAt": "2023-08-17",
+        "source": "https://bluearchive-cn.com/news/182",
+        "sourceTitle": "【预告】限时活动：樱花烂漫庆典大骚动！"
+      },
+      {
+        "eventId": 802,
+        "releasedAt": "2023-09-14",
+        "source": "https://bluearchive-cn.com/news/236",
+        "sourceTitle": "【预告】限时活动：革命之伊万库帕拉"
+      },
+      {
+        "eventId": 803,
+        "releasedAt": "2023-10-26",
+        "source": "https://bluearchive-cn.com/news/306",
+        "sourceTitle": "【预告】限时活动：夏日天空的愿望清单"
+      },
+      {
+        "eventId": 804,
+        "releasedAt": "2023-12-07",
+        "source": "https://bluearchive-cn.com/news/383",
+        "sourceTitle": "【预告】限时活动：日奈会长的夏日休假！"
+      },
+      {
+        "eventId": 805,
+        "releasedAt": "2023-11-23",
+        "source": "https://bluearchive-cn.com/news/353",
+        "sourceTitle": "【预告】限时活动：在梦幻岛玩捉迷藏"
+      },
+      {
+        "eventId": 806,
+        "releasedAt": "2024-03-21",
+        "source": "https://bluearchive-cn.com/news/631",
+        "sourceTitle": "【预告】限时活动：船上的兔子追击者"
+      },
+      {
+        "eventId": 807,
+        "releasedAt": "2024-05-02",
+        "source": "https://bluearchive-cn.com/news/723",
+        "sourceTitle": "初音未来的特别演出in基沃托斯~彩排篇~"
+      },
+      {
+        "eventId": 808,
+        "releasedAt": "2024-01-04",
+        "source": "https://bluearchive-cn.com/news/443",
+        "sourceTitle": "【预告】限时活动：227号温泉乡运营记录"
+      },
+      {
+        "eventId": 809,
+        "releasedAt": "2024-01-18",
+        "source": "https://bluearchive-cn.com/news/473",
+        "sourceTitle": "【预告】限时活动：新春狂想曲第68号"
+      },
+      {
+        "eventId": 810,
+        "releasedAt": "2024-02-08",
+        "source": "https://bluearchive-cn.com/news/538",
+        "sourceTitle": "沙勒的快乐♥情人节巡逻&若藻的沉默与欢宴"
+      },
+      {
+        "eventId": 811,
+        "releasedAt": "2024-02-08",
+        "source": "https://bluearchive-cn.com/news/538",
+        "sourceTitle": "沙勒的快乐♥情人节巡逻&若藻的沉默与欢宴"
+      },
+      {
+        "eventId": 812,
+        "releasedAt": "2024-02-29",
+        "source": "https://bluearchive-cn.com/news/597",
+        "sourceTitle": "限时活动：冒失修女与古书馆的魔法师"
+      },
+      {
+        "eventId": 813,
+        "releasedAt": "2024-04-18",
+        "source": "https://bluearchive-cn.com/news/703",
+        "sourceTitle": "【预告】限时活动：不忍之心"
+      },
+      {
+        "eventId": 814,
+        "releasedAt": "2024-05-30",
+        "source": "https://bluearchive-cn.com/news/799",
+        "sourceTitle": "【预告】阿拜多斯度假村重建对策委员会"
+      },
+      {
+        "eventId": 815,
+        "releasedAt": "2024-06-13",
+        "source": "https://bluearchive-cn.com/news/821",
+        "sourceTitle": "【预告】出差！百夜堂海之家加盟计划"
+      },
+      {
+        "eventId": 816,
+        "releasedAt": "2024-07-04",
+        "source": "https://bluearchive-cn.com/news/929",
+        "sourceTitle": "限时活动：课后甜点故事 ~甜秘枪战~"
+      },
+      {
+        "eventId": 817,
+        "releasedAt": "2024-07-18",
+        "source": "https://bluearchive-cn.com/news/933",
+        "sourceTitle": "限时活动：ON YOUR MARK已开启"
+      },
+      {
+        "eventId": 818,
+        "releasedAt": "2024-08-01",
+        "source": "https://bluearchive-cn.com/news/948",
+        "sourceTitle": "【预告】限时活动：Get Set,Go！"
+      },
+      {
+        "eventId": 819,
+        "releasedAt": "2024-09-12",
+        "source": "https://bluearchive-cn.com/news/1051",
+        "sourceTitle": "【预告】限时活动：圣堂的圣夜祝福"
+      },
+      {
+        "eventId": 820,
+        "releasedAt": "2024-10-03",
+        "source": "https://bluearchive-cn.com/news/1095",
+        "sourceTitle": "【预告】限时活动：新年开胃菜"
+      },
+      {
+        "eventId": 821,
+        "releasedAt": "2024-11-07",
+        "source": "https://bluearchive-cn.com/news/1192",
+        "sourceTitle": "限时活动【虚妄圣所攻略战】已开启！"
+      },
+      {
+        "eventId": 822,
+        "releasedAt": "2024-12-05",
+        "source": "https://bluearchive-cn.com/news/1235",
+        "sourceTitle": "限时活动【阿特拉哈西斯方舟占领战】开启！"
+      },
+      {
+        "eventId": 823,
+        "releasedAt": "2024-12-19",
+        "source": "https://bluearchive-cn.com/news/1250",
+        "sourceTitle": "限时活动【弗雷纳帕提斯决战】开启！"
+      },
+      {
+        "eventId": 824,
+        "releasedAt": "2024-12-23",
+        "source": "https://bluearchive-cn.com/news/1249",
+        "sourceTitle": "限时活动【D.U.白鸟区 修复工程】开启"
+      },
+      {
+        "eventId": 825,
+        "releasedAt": "2025-01-23",
+        "source": "https://bluearchive-cn.com/news/1303",
+        "sourceTitle": "【预告】限时活动：纯白的预告信"
+      },
+      {
+        "eventId": 826,
+        "releasedAt": "2025-02-20",
+        "source": "https://bluearchive-cn.com/news/1330",
+        "sourceTitle": "【预告】限时活动：龙武同舟"
+      },
+      {
+        "eventId": 827,
+        "releasedAt": "2025-03-20",
+        "source": "https://bluearchive-cn.com/news/1347",
+        "sourceTitle": "【预告】限时活动：夏日特别行动！"
+      },
+      {
+        "eventId": 828,
+        "releasedAt": "2025-04-24",
+        "source": "https://bluearchive-cn.com/news/1384",
+        "sourceTitle": "【预告】限时活动：崔尼蒂的课外活动"
+      },
+      {
+        "eventId": 829,
+        "releasedAt": "2025-05-10",
+        "source": "https://bluearchive-cn.com/news/1408",
+        "sourceTitle": "【预告】限时活动：学漫同人物语"
+      },
+      {
+        "eventId": 830,
+        "releasedAt": "2025-06-05",
+        "source": "https://bluearchive-cn.com/news/1431",
+        "sourceTitle": "限时活动：Trip-Trap-Train"
+      },
+      {
+        "eventId": 831,
+        "releasedAt": "2025-11-20",
+        "source": "https://bluearchive-cn.com/news/1599",
+        "sourceTitle": "【预告】限时活动：某科学的青春记录"
+      },
+      {
+        "eventId": 832,
+        "releasedAt": "2025-06-19",
+        "source": "https://bluearchive-cn.com/news/1442",
+        "sourceTitle": "【预告】限时活动：电脑新春进行曲"
+      },
+      {
+        "eventId": 833,
+        "releasedAt": "2025-07-31",
+        "source": "https://bluearchive-cn.com/news/1491",
+        "sourceTitle": "【预告】限时活动：阳光绽放 她们的小夜曲"
+      },
+      {
+        "eventId": 834,
+        "releasedAt": "2025-08-28",
+        "source": "https://bluearchive-cn.com/news/1528",
+        "sourceTitle": "【预告】限时活动：0068 来自歌剧的爱"
+      },
+      {
+        "eventId": 835,
+        "releasedAt": "2025-10-23",
+        "source": "https://bluearchive-cn.com/news/1570",
+        "sourceTitle": "【预告】限时活动：笑笑闹闹 走走绕绕"
+      },
+      {
+        "eventId": 836,
+        "releasedAt": "2025-10-02",
+        "source": "https://bluearchive-cn.com/news/1551",
+        "sourceTitle": "【预告】限时活动：-ive aLIVE!"
+      },
+      {
+        "eventId": 837,
+        "releasedAt": "2026-01-08",
+        "source": "https://bluearchive-cn.com/news/1657",
+        "sourceTitle": "【预告】限时活动：Say-Bing!"
+      },
+      {
+        "eventId": 838,
+        "releasedAt": "2026-01-29",
+        "source": "https://bluearchive-cn.com/news/1682",
+        "sourceTitle": "限时活动：Sheside Outside"
+      },
+      {
+        "eventId": 839,
+        "releasedAt": "2025-12-18",
+        "source": "https://bluearchive-cn.com/news/1639",
+        "sourceTitle": "【预告】限时活动：月华梦骚"
+      },
+      {
+        "eventId": 840,
+        "releasedAt": "2026-02-14",
+        "source": "https://bluearchive-cn.com/news/1713",
+        "sourceTitle": "【预告】限时活动：五尘降临"
+      },
+      {
+        "eventId": 841,
+        "releasedAt": "2026-03-26",
+        "source": "https://bluearchive-cn.com/news/1741",
+        "sourceTitle": "Serenade Promenade"
+      },
+      {
+        "eventId": 842,
+        "releasedAt": "2026-04-30",
+        "source": "https://bluearchive-cn.com/news/1779",
+        "sourceTitle": "秘密的午夜派对 伴随钟声的捉迷藏"
+      },
+      {
+        "eventId": 843,
+        "releasedAt": "2026-05-28",
+        "source": "https://bluearchive-cn.com/news/1811",
+        "sourceTitle": "【预告】限时活动：Code: BOX"
+      },
+      {
+        "eventId": 844,
+        "releasedAt": "2026-07-02",
+        "source": "https://bluearchive-cn.com/news/1849",
+        "sourceTitle": "【预告】限时活动：异饼危机"
+      },
+      {
+        "eventId": 845,
+        "releasedAt": "2026-07-16",
+        "source": "https://bluearchive-cn.com/news/1850",
+        "sourceTitle": "PRAY-BALL!目标：满贯本垒打"
+      },
+      {
+        "eventId": 846,
+        "releasedAt": "2026-07-30",
+        "source": "https://bluearchive-cn.com/news/1885",
+        "sourceTitle": "限时活动：海兰德铁道失控事件~"
+      },
+      {
+        "eventId": 847,
+        "releasedAt": "2026-09-10",
+        "source": "https://bluearchive-cn.com/news/1937",
+        "sourceTitle": "百芳丛中独一枝 ~堂堂正正，水上争锋~"
+      },
+      {
+        "eventId": 848,
+        "releasedAt": "2026-09-24",
+        "source": "https://bluearchive-cn.com/news/1962",
+        "sourceTitle": "【预告】限时活动：夏日天空的约定"
+      },
+      {
+        "eventId": 80000,
+        "releasedAt": "2026-02-14",
+        "source": "https://bluearchive-cn.com/news/1701",
+        "sourceTitle": "【预告】限时活动：情人节的特别约定"
+      }
+    ]
+  },
+  "mainDates": {
+    "server": "CN",
+    "checkedAt": "2026-10-04",
+    "basis": "国服主线各话首次开放日期；分批更新、章节序章和后日谈分别记录，不使用配音更新或预加载日期。",
+    "entries": [
+      {
+        "modeType": "Prologue",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 1,
+        "firstEpisode": 1,
+        "lastEpisode": 2,
+        "releasedAt": "2023-08-03",
+        "source": "https://bluearchive-cn.com/news/160",
+        "sourceTitle": "《蔚蓝档案》全平台公测正式开启!"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 1,
+        "firstEpisode": 1,
+        "lastEpisode": 20,
+        "releasedAt": "2023-08-03",
+        "source": "https://bluearchive-cn.com/news/153",
+        "sourceTitle": "《蔚蓝档案》公测版本内容开放说明",
+        "additionalSources": [
+          "https://bluearchive-cn.com/news/160"
+        ]
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 2,
+        "firstEpisode": 1,
+        "lastEpisode": 20,
+        "releasedAt": "2023-08-10",
+        "source": "https://bluearchive-cn.com/news/164",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 3,
+        "firstEpisode": 1,
+        "lastEpisode": 1,
+        "releasedAt": "2025-08-14",
+        "source": "https://bluearchive-cn.com/news/1518",
+        "sourceTitle": "08月14日维护更新说明"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 3,
+        "firstEpisode": 2,
+        "lastEpisode": 7,
+        "releasedAt": "2025-10-23",
+        "source": "https://bluearchive-cn.com/news/1571",
+        "sourceTitle": "【预告】主线故事即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 3,
+        "firstEpisode": 8,
+        "lastEpisode": 16,
+        "releasedAt": "2025-12-04",
+        "source": "https://bluearchive-cn.com/news/1620",
+        "sourceTitle": "【预告】主线故事即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 3,
+        "firstEpisode": 17,
+        "lastEpisode": 27,
+        "releasedAt": "2025-12-18",
+        "source": "https://bluearchive-cn.com/news/1641",
+        "sourceTitle": "【预告】主线故事即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 3,
+        "firstEpisode": 28,
+        "lastEpisode": 34,
+        "releasedAt": "2026-01-08",
+        "source": "https://bluearchive-cn.com/news/1658",
+        "sourceTitle": "【预告】主线故事即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 1,
+        "chapterId": 3,
+        "firstEpisode": 35,
+        "lastEpisode": 43,
+        "releasedAt": "2026-01-29",
+        "source": "https://bluearchive-cn.com/news/1683",
+        "sourceTitle": "【预告】主线故事即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 2,
+        "chapterId": 1,
+        "firstEpisode": 1,
+        "lastEpisode": 20,
+        "releasedAt": "2023-08-31",
+        "source": "https://bluearchive-cn.com/news/205",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 2,
+        "chapterId": 2,
+        "firstEpisode": 1,
+        "lastEpisode": 10,
+        "releasedAt": "2024-08-22",
+        "source": "https://bluearchive-cn.com/news/1008",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 2,
+        "chapterId": 2,
+        "firstEpisode": 11,
+        "lastEpisode": 25,
+        "releasedAt": "2024-08-29",
+        "source": "https://bluearchive-cn.com/news/1027",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 1,
+        "firstEpisode": 1,
+        "lastEpisode": 9,
+        "releasedAt": "2023-09-28",
+        "source": "https://bluearchive-cn.com/news/262",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 1,
+        "firstEpisode": 10,
+        "lastEpisode": 17,
+        "releasedAt": "2023-10-12",
+        "source": "https://bluearchive-cn.com/news/281",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 2,
+        "firstEpisode": 1,
+        "lastEpisode": 9,
+        "releasedAt": "2023-11-09",
+        "source": "https://bluearchive-cn.com/news/329",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 2,
+        "firstEpisode": 10,
+        "lastEpisode": 20,
+        "releasedAt": "2023-12-21",
+        "source": "https://bluearchive-cn.com/news/412",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 3,
+        "firstEpisode": 1,
+        "lastEpisode": 9,
+        "releasedAt": "2024-01-18",
+        "source": "https://bluearchive-cn.com/news/471",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 3,
+        "firstEpisode": 10,
+        "lastEpisode": 25,
+        "releasedAt": "2024-02-01",
+        "source": "https://bluearchive-cn.com/news/505",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 4,
+        "firstEpisode": 1,
+        "lastEpisode": 10,
+        "releasedAt": "2024-05-16",
+        "source": "https://bluearchive-cn.com/news/755",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 3,
+        "chapterId": 4,
+        "firstEpisode": 11,
+        "lastEpisode": 27,
+        "releasedAt": "2024-05-23",
+        "source": "https://bluearchive-cn.com/news/786",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 4,
+        "chapterId": 1,
+        "firstEpisode": 1,
+        "lastEpisode": 11,
+        "releasedAt": "2024-04-04",
+        "source": "https://bluearchive-cn.com/news/660",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 4,
+        "chapterId": 1,
+        "firstEpisode": 12,
+        "lastEpisode": 20,
+        "releasedAt": "2024-04-11",
+        "source": "https://bluearchive-cn.com/news/670",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 4,
+        "chapterId": 2,
+        "firstEpisode": 1,
+        "lastEpisode": 10,
+        "releasedAt": "2025-03-06",
+        "source": "https://bluearchive-cn.com/news/1336",
+        "sourceTitle": "03月06日维护更新说明"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 4,
+        "chapterId": 2,
+        "firstEpisode": 11,
+        "lastEpisode": 24,
+        "releasedAt": "2025-03-13",
+        "source": "https://bluearchive-cn.com/news/1336",
+        "sourceTitle": "03月06日维护更新说明"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 5,
+        "chapterId": 1,
+        "firstEpisode": 1,
+        "lastEpisode": 13,
+        "releasedAt": "2025-07-03",
+        "source": "https://bluearchive-cn.com/news/1454",
+        "sourceTitle": "【预告】主线故事即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 5,
+        "chapterId": 1,
+        "firstEpisode": 14,
+        "lastEpisode": 26,
+        "releasedAt": "2025-07-10",
+        "source": "https://bluearchive-cn.com/news/1468",
+        "sourceTitle": "【预告】主线故事即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 5,
+        "chapterId": 2,
+        "firstEpisode": 1,
+        "lastEpisode": 15,
+        "releasedAt": "2026-08-20",
+        "source": "https://bluearchive-cn.com/news/1913",
+        "sourceTitle": "【预告】主线故事part1即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 5,
+        "chapterId": 2,
+        "firstEpisode": 16,
+        "lastEpisode": 28,
+        "releasedAt": "2026-08-27",
+        "source": "https://bluearchive-cn.com/news/1912",
+        "sourceTitle": "【预告】主线故事part2即将更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 100,
+        "chapterId": 1,
+        "firstEpisode": 1,
+        "lastEpisode": 15,
+        "releasedAt": "2024-10-31",
+        "source": "https://bluearchive-cn.com/news/1170",
+        "sourceTitle": "【预告】主线剧情更新"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 100,
+        "chapterId": 2,
+        "firstEpisode": 1,
+        "lastEpisode": 21,
+        "releasedAt": "2024-11-07",
+        "source": "https://bluearchive-cn.com/news/1188",
+        "sourceTitle": "主线剧情已更新！"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 100,
+        "chapterId": 3,
+        "firstEpisode": 1,
+        "lastEpisode": 16,
+        "releasedAt": "2024-12-05",
+        "source": "https://bluearchive-cn.com/news/1234",
+        "sourceTitle": "主线剧情已更新！"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 100,
+        "chapterId": 4,
+        "firstEpisode": 1,
+        "lastEpisode": 10,
+        "releasedAt": "2024-12-19",
+        "source": "https://bluearchive-cn.com/news/1248",
+        "sourceTitle": "主线剧情已更新！"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 100,
+        "chapterId": 4,
+        "firstEpisode": 11,
+        "lastEpisode": 11,
+        "releasedAt": "2025-01-02",
+        "source": "https://bluearchive-cn.com/news/1258",
+        "sourceTitle": "阿洛娜的日程笔记（第15期）"
+      },
+      {
+        "modeType": "Main",
+        "series": "Series1",
+        "volumeId": 100,
+        "chapterId": 4,
+        "firstEpisode": 12,
+        "lastEpisode": 12,
+        "releasedAt": "2025-01-16",
+        "source": "https://bluearchive-cn.com/news/1258",
+        "sourceTitle": "阿洛娜的日程笔记（第15期）"
+      }
+    ]
+  }
+}

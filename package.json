@@ -1,0 +1,34 @@
+{
+  "name": "story-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run tests/ && node scripts/test-importers.mjs",
+    "tauri": "tauri",
+    "desktop:dev": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/desktop.ps1 dev",
+    "desktop:build": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/desktop.ps1 build --no-bundle",
+    "test:db": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/desktop.ps1 test",
+    "test:desktop": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/smoke.ps1",
+    "importers:install": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/install-importers.ps1",
+    "desktop:release": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/release.ps1",
+    "licenses:generate": "node scripts/license-notices.mjs"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "playwright-core": "^1.63.0",
+    "typescript": "^5.9.0",
+    "vite": "^7.0.0",
+    "vitest": "^3.0.0"
+  },
+  "license": "MIT"
+}

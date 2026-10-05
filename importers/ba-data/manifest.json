@@ -1,0 +1,11 @@
+{
+  "apiVersion": 1,
+  "id": "ba-data",
+  "name": "蔚蓝档案 · 剧情标题目录",
+  "gameId": "blue-archive",
+  "runtime": "node",
+  "entry": "index.mjs",
+  "progressStoryLines": [
+    "main"
+  ]
+}

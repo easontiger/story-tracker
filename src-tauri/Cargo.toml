@@ -1,0 +1,33 @@
+[package]
+license = "MIT"
+name = "story-tracker"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "story_tracker_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[[bin]]
+name = "story-tracker"
+path = "src/main.rs"
+required-features = ["desktop"]
+
+[features]
+default = ["desktop"]
+desktop = ["dep:tauri", "dep:tauri-build", "dep:tauri-plugin-dialog"]
+
+[build-dependencies]
+tauri-build = { version = "2", optional = true , features = [] }
+
+[dependencies]
+tauri-plugin-dialog = { version = "2", optional = true }
+tauri = { version = "2", optional = true , features = [] }
+serde = { version = "1", features = ["derive"] }
+rusqlite = { version = "0.38", features = ["bundled"] }
+uuid = { version = "1", features = ["v4"] }
+serde_json = "1"
+chrono = { version = "0.4", default-features = false, features = ["clock"] }
+
+[dev-dependencies]
+tempfile = "3"

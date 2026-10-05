@@ -1,0 +1,4017 @@
+{
+  "source": "https://iopwiki.com/wiki/Story",
+  "checkedAt": "2026-10-04",
+  "groups": [
+    {
+      "section": "Main Story",
+      "title": "Prologue",
+      "stages": [
+        {
+          "title": "Prologue"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 00 - Seed",
+      "stages": [
+        {
+          "title": "Normal 0-1: Warm-Up Exercise"
+        },
+        {
+          "title": "Normal 0-2: Dark Information"
+        },
+        {
+          "title": "Normal 0-3: Defend the Base"
+        },
+        {
+          "title": "Normal 0-4: Final Challenge"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 01 - Awakening",
+      "stages": [
+        {
+          "title": "Normal 1-1: Drill"
+        },
+        {
+          "title": "Normal 1-2: Transport the Injured"
+        },
+        {
+          "title": "Normal 1-3: Investigate Anomalies"
+        },
+        {
+          "title": "Normal 1-4: Missing Party"
+        },
+        {
+          "title": "Normal 1-5: Rescue Signal"
+        },
+        {
+          "title": "Normal 1-6: Operation Uproot"
+        },
+        {
+          "title": "Emergency 1-1: Advanced Training I"
+        },
+        {
+          "title": "Emergency 1-2: Advanced Training II"
+        },
+        {
+          "title": "Emergency 1-3: Advanced Training III"
+        },
+        {
+          "title": "Emergency 1-4: Advanced Training IV"
+        },
+        {
+          "title": "Night 1-1: Petite Courrier I"
+        },
+        {
+          "title": "Night 1-2: Petite Courrier II"
+        },
+        {
+          "title": "Night 1-3: Petite Courrier III"
+        },
+        {
+          "title": "Night 1-4: Petite Courrier IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 02 - Echo",
+      "stages": [
+        {
+          "title": "Normal 2-1: Record Trace"
+        },
+        {
+          "title": "Normal 2-2: Emergency Reinforcements"
+        },
+        {
+          "title": "Normal 2-3: Enemy Investigation"
+        },
+        {
+          "title": "Normal 2-4: Data Collection"
+        },
+        {
+          "title": "Normal 2-5: Additional Commission"
+        },
+        {
+          "title": "Normal 2-6: Termination"
+        },
+        {
+          "title": "Emergency 2-1: Field Samples I"
+        },
+        {
+          "title": "Emergency 2-2: Field Samples II"
+        },
+        {
+          "title": "Emergency 2-3: Field Samples III"
+        },
+        {
+          "title": "Emergency 2-4: Field Samples IV"
+        },
+        {
+          "title": "Night 2-1: Professional Help I"
+        },
+        {
+          "title": "Night 2-2: Professional Help II"
+        },
+        {
+          "title": "Night 2-3: Professional Help III"
+        },
+        {
+          "title": "Night 2-4: Professional Help IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 03 - Silence",
+      "stages": [
+        {
+          "title": "Normal 3-1: Clearing a Path"
+        },
+        {
+          "title": "Normal 3-2: Intercepted Intelligence"
+        },
+        {
+          "title": "Normal 3-3: Covert Reinforcement"
+        },
+        {
+          "title": "Normal 3-4: Defensive Operation"
+        },
+        {
+          "title": "Normal 3-5: Swift Counterattack"
+        },
+        {
+          "title": "Normal 3-6: No Hunting"
+        },
+        {
+          "title": "Emergency 3-1: Data Retrieval I"
+        },
+        {
+          "title": "Emergency 3-2: Data Retrieval II"
+        },
+        {
+          "title": "Emergency 3-3: Data Retrieval III"
+        },
+        {
+          "title": "Emergency 3-4: Data Retrieval IV"
+        },
+        {
+          "title": "Night 3-1: Anonymous Rescue I"
+        },
+        {
+          "title": "Night 3-2: Anonymous Rescue II"
+        },
+        {
+          "title": "Night 3-3: Anonymous Rescue III"
+        },
+        {
+          "title": "Night 3-4: Anonymous Rescue IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 04 - Message",
+      "stages": [
+        {
+          "title": "Normal 4-1: Assist the Mercenaries"
+        },
+        {
+          "title": "Normal 4-2: Cut Off Reinforcements"
+        },
+        {
+          "title": "Normal 4-3: Break Through Enemy Lines"
+        },
+        {
+          "title": "Normal 4-4: Search for Companions"
+        },
+        {
+          "title": "Normal 4-5: Locate the Coordinates"
+        },
+        {
+          "title": "Normal 4-6: Eradicate the Disturbance"
+        },
+        {
+          "title": "Emergency 4-1: Reminiscing I"
+        },
+        {
+          "title": "Emergency 4-2: Reminiscing II"
+        },
+        {
+          "title": "Emergency 4-3: Reminiscing III"
+        },
+        {
+          "title": "Emergency 4-4: Reminiscing IV"
+        },
+        {
+          "title": "Night 4-1: One-Week Teammates I"
+        },
+        {
+          "title": "Night 4-2: One-Week Teammates II"
+        },
+        {
+          "title": "Night 4-3: One-Week Teammates III"
+        },
+        {
+          "title": "Night 4-4: One-Week Teammates IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 05 - Kindling",
+      "stages": [
+        {
+          "title": "Normal 5-1: Drill Attendance"
+        },
+        {
+          "title": "Normal 5-2: Raid Resistance"
+        },
+        {
+          "title": "Normal 5-3: Counterstrike"
+        },
+        {
+          "title": "Normal 5-4: Safeguard Retreat"
+        },
+        {
+          "title": "Normal 5-5: Internal Phenomenon"
+        },
+        {
+          "title": "Normal 5-6: Order to Pursue"
+        },
+        {
+          "title": "Emergency 5-1: Solving the Mystery I"
+        },
+        {
+          "title": "Emergency 5-2: Solving the Mystery II"
+        },
+        {
+          "title": "Emergency 5-3: Solving the Mystery III"
+        },
+        {
+          "title": "Emergency 5-4: Solving the Mystery IV"
+        },
+        {
+          "title": "Night 5-1: Peculiar Vendor I"
+        },
+        {
+          "title": "Night 5-2: Peculiar Vendor II"
+        },
+        {
+          "title": "Night 5-3: Peculiar Vendor III"
+        },
+        {
+          "title": "Night 5-4: Peculiar Vendor IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 06 - Comet",
+      "stages": [
+        {
+          "title": "Normal 6-1: Squad Negev"
+        },
+        {
+          "title": "Normal 6-2: Double Rescue"
+        },
+        {
+          "title": "Normal 6-3: Reunion"
+        },
+        {
+          "title": "Normal 6-4: Prisoner"
+        },
+        {
+          "title": "Normal 6-5: Resolve"
+        },
+        {
+          "title": "Normal 6-6: Late Farewell"
+        },
+        {
+          "title": "Emergency 6-1: Final Wish I"
+        },
+        {
+          "title": "Emergency 6-2: Final Wish II"
+        },
+        {
+          "title": "Emergency 6-3: Final Wish III"
+        },
+        {
+          "title": "Emergency 6-4: Final Wish IV"
+        },
+        {
+          "title": "Night 6-1: People in the Flask I"
+        },
+        {
+          "title": "Night 6-2: People in the Flask II"
+        },
+        {
+          "title": "Night 6-3: People in the Flask III"
+        },
+        {
+          "title": "Night 6-4: People in the Flask IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 07 - Partner",
+      "stages": [
+        {
+          "title": "Normal 7-1: New Job"
+        },
+        {
+          "title": "Normal 7-2: Sabotage"
+        },
+        {
+          "title": "Normal 7-3: Daily Patrols"
+        },
+        {
+          "title": "Normal 7-4: Ambush"
+        },
+        {
+          "title": "Normal 7-5: Cat and Mouse"
+        },
+        {
+          "title": "Normal 7-6: Reunion"
+        },
+        {
+          "title": "Emergency 7-1: Retrieval I"
+        },
+        {
+          "title": "Emergency 7-2: Retrieval II"
+        },
+        {
+          "title": "Emergency 7-3: Retrieval III"
+        },
+        {
+          "title": "Emergency 7-4: Retrieval IV"
+        },
+        {
+          "title": "Night 7-1: One-Sided Memory I"
+        },
+        {
+          "title": "Night 7-2: One-Sided Memory II"
+        },
+        {
+          "title": "Night 7-3: One-Sided Memory III"
+        },
+        {
+          "title": "Night 7-4: One-Sided Memory IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 08 - Spark",
+      "stages": [
+        {
+          "title": "8-1 Normal: Report Meeting"
+        },
+        {
+          "title": "8-2 Normal: The Last Supper"
+        },
+        {
+          "title": "8-3 Normal: Acceleration"
+        },
+        {
+          "title": "8-4 Normal: Unwelcome Guest"
+        },
+        {
+          "title": "8-5 Normal: Shadow In The Sky"
+        },
+        {
+          "title": "8-6 Normal: Mission"
+        },
+        {
+          "title": "Emergency 8-1: Parader I"
+        },
+        {
+          "title": "Emergency 8-2: Parader II"
+        },
+        {
+          "title": "Emergency 8-3: Parader III"
+        },
+        {
+          "title": "Emergency 8-4: Parader IV"
+        },
+        {
+          "title": "Night 8-1: Eagle and Jackdaw I"
+        },
+        {
+          "title": "Night 8-2: Eagle and Jackdaw II"
+        },
+        {
+          "title": "Night 8-3: Eagle and Jackdaw III"
+        },
+        {
+          "title": "Night 8-4: Eagle and Jackdaw IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 09 - Lost",
+      "stages": [
+        {
+          "title": "Normal 9-1: Banquet After Dark"
+        },
+        {
+          "title": "Normal 9-2: Probe"
+        },
+        {
+          "title": "Normal 9-3: Forum"
+        },
+        {
+          "title": "Normal 9-4: Double Search"
+        },
+        {
+          "title": "Normal 9-5: Prelude"
+        },
+        {
+          "title": "Normal 9-6: Breakthrough"
+        },
+        {
+          "title": "Emergency 9-1: Hawk and Hound I"
+        },
+        {
+          "title": "Emergency 9-2: Hawk and Hound II"
+        },
+        {
+          "title": "Emergency 9-3: Hawk and Hound III"
+        },
+        {
+          "title": "Emergency 9-4: Hawk and Hound IV"
+        },
+        {
+          "title": "Night 9-1: The Way Back Is Paved With Light I"
+        },
+        {
+          "title": "Night 9-2: The Way Back Is Paved With Light II"
+        },
+        {
+          "title": "Night 9-3: The Way Back Is Paved With Light III"
+        },
+        {
+          "title": "Night 9-4: The Way Back Is Paved With Light IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 10 - Purgatory",
+      "stages": [
+        {
+          "title": "Normal 10-1: Departure Day"
+        },
+        {
+          "title": "Normal 10-2: Toward The Frontlines"
+        },
+        {
+          "title": "Normal 10-3: Into The Hinterlands"
+        },
+        {
+          "title": "Normal 10-4: Cleanup"
+        },
+        {
+          "title": "Normal 10-5: On The Run"
+        },
+        {
+          "title": "Normal 10-6: Desperate Breakout"
+        },
+        {
+          "title": "Emergency 10-1: Betrayal I"
+        },
+        {
+          "title": "Emergency 10-2: Betrayal II"
+        },
+        {
+          "title": "Emergency 10-3: Betrayal III"
+        },
+        {
+          "title": "Emergency 10-4: Betrayal IV"
+        },
+        {
+          "title": "Night 10-1: The Battlefield Without Her I"
+        },
+        {
+          "title": "Night 10-2: The Battlefield Without Her II"
+        },
+        {
+          "title": "Night 10-3: The Battlefield Without Her III"
+        },
+        {
+          "title": "Night 10-4: The Battlefield Without Her IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 11 - The Hunt",
+      "stages": [
+        {
+          "title": "Normal 11-1: Torrent Breaker"
+        },
+        {
+          "title": "Normal 11-2: Electronic Eye"
+        },
+        {
+          "title": "Normal 11-3: Silent Pursuit"
+        },
+        {
+          "title": "Normal 11-4: Prior to Destruction"
+        },
+        {
+          "title": "Normal 11-5: House in the Street"
+        },
+        {
+          "title": "Normal 11-6: Underworld"
+        },
+        {
+          "title": "Emergency 11-1: Strange Journey"
+        },
+        {
+          "title": "Emergency 11-2: Plan of Attack"
+        },
+        {
+          "title": "Emergency 11-3: Fishing in Troubled Waters"
+        },
+        {
+          "title": "Emergency 11-4: Great Escape"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 12 - Gasp",
+      "stages": [
+        {
+          "title": "Normal 12-1: Rein Buckle"
+        },
+        {
+          "title": "Normal 12-2: Chasing Phantoms"
+        },
+        {
+          "title": "Normal 12-3: The Philosophy of Killing"
+        },
+        {
+          "title": "Normal 12-4: Smoke Signal"
+        },
+        {
+          "title": "Normal 12-5: Ephemeral Memories"
+        },
+        {
+          "title": "Normal 12-6: Goodbye, Daybreak"
+        },
+        {
+          "title": "Emergency 12-1: Morning Conference I"
+        },
+        {
+          "title": "Emergency 12-2: Morning Conference II"
+        },
+        {
+          "title": "Emergency 12-3: Morning Conference III"
+        },
+        {
+          "title": "Emergency 12-4: Morning Conference IV"
+        }
+      ]
+    },
+    {
+      "section": "Main Story",
+      "title": "Episode 13 - The Oblivione",
+      "stages": [
+        {
+          "title": "Normal 13-1: Stay in Position"
+        },
+        {
+          "title": "Normal 13-2: Confidential Document"
+        },
+        {
+          "title": "Normal 13-3: Familiar Figure"
+        },
+        {
+          "title": "Normal 13-4: Old Friend"
+        },
+        {
+          "title": "Normal 13-5: Closing In"
+        },
+        {
+          "title": "Normal 13-6: Coda"
+        },
+        {
+          "title": "Emergency 13-1: Immemorial I"
+        },
+        {
+          "title": "Emergency 13-2: Immemorial II"
+        },
+        {
+          "title": "Emergency 13-3: Immemorial III"
+        },
+        {
+          "title": "Emergency 13-4: Immemorial IV"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 5.5 - Operation Cube",
+      "stages": [
+        {
+          "title": "E1-1: Seven-Step Puzzle"
+        },
+        {
+          "title": "E1-2: Corner Breaker"
+        },
+        {
+          "title": "E1-3: Layer Reversal"
+        },
+        {
+          "title": "E1-4: Side Collapse"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 7.5 - Arctic Warfare",
+      "stages": [
+        {
+          "title": "E1-1: The Wolves Gather I"
+        },
+        {
+          "title": "E1-2: The Wolves Gather II"
+        },
+        {
+          "title": "E1-3: The Wolves Gather III"
+        },
+        {
+          "title": "E1-4: The Wolves Gather IV"
+        },
+        {
+          "title": "E2-1: Lightning Curfew I"
+        },
+        {
+          "title": "E2-2: Lightning Curfew II"
+        },
+        {
+          "title": "E2-3: Lightning Curfew III"
+        },
+        {
+          "title": "E2-4: Lightning Curfew IV"
+        },
+        {
+          "title": "E3-1: Operation Homecoming I"
+        },
+        {
+          "title": "E3-2: Operation Homecoming II"
+        },
+        {
+          "title": "E3-3: Operation Homecoming III"
+        },
+        {
+          "title": "E3-4: Operation Homecoming IV"
+        },
+        {
+          "title": "Epilogue: Down the Rabbit Hole"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 7.75 - Operation Cube+",
+      "stages": [
+        {
+          "title": "E1-1: Cross Base"
+        },
+        {
+          "title": "E1-2: Bearing Miscalculation"
+        },
+        {
+          "title": "E1-3: Directional Algorithm"
+        },
+        {
+          "title": "E1-4: Reverse Sequence"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 8.5 - Deep Dive",
+      "stages": [
+        {
+          "title": "E1-1: Cognitive Disorder I"
+        },
+        {
+          "title": "E1-2: Cognitive Conundrum II"
+        },
+        {
+          "title": "E1-3: Cognitive Conundrum III"
+        },
+        {
+          "title": "E1-4: Cognitive Conundrum IV"
+        },
+        {
+          "title": "E2-1: Hyperbolic Function I"
+        },
+        {
+          "title": "E2-2: Hyperbolic Function II"
+        },
+        {
+          "title": "E2-3: Hyperbolic Function III"
+        },
+        {
+          "title": "E2-4: Hyperbolic Function IV"
+        },
+        {
+          "title": "E3-1: Relative Behavior I"
+        },
+        {
+          "title": "E3-2: Relative Behavior II"
+        },
+        {
+          "title": "E3-3: Relative Behavior III"
+        },
+        {
+          "title": "E3-4: Relative Behavior IV"
+        },
+        {
+          "title": "Epilogue"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 10.5 - Singularity",
+      "stages": [
+        {
+          "title": "E1-0: Endgame (13:20)"
+        },
+        {
+          "title": "E1-1: Starting Point (16:00)"
+        },
+        {
+          "title": "E1-2: Splinter Point (16:40)"
+        },
+        {
+          "title": "E1-A1: Stroke Dead-Center I (16:55)"
+        },
+        {
+          "title": "E1-A2: Stroke Dead-Center II (17:42)"
+        },
+        {
+          "title": "E1-A3: Stroke Dead-Center III (18:20)"
+        },
+        {
+          "title": "E1-A4: Stroke Dead-Center IV (19:30)"
+        },
+        {
+          "title": "E1-B1: Compression Initiates I (16:46)"
+        },
+        {
+          "title": "E1-B2: Compression Initiates II (17:50)"
+        },
+        {
+          "title": "E1-B3: Compression Initiates III (18:20)"
+        },
+        {
+          "title": "E1-B4: Compression Initiates IV (19:30)"
+        },
+        {
+          "title": "E1-C1: Re-Ignition I (18:30)"
+        },
+        {
+          "title": "E1-C2: Re-Ignition II (19:00)"
+        },
+        {
+          "title": "E1-C3: Re-Ignition III (19:10)"
+        },
+        {
+          "title": "E1-C4: Re-Ignition IV (19:30)"
+        },
+        {
+          "title": "E1-H: Messenger"
+        },
+        {
+          "title": "E2-1: Splinter Point (20:00)"
+        },
+        {
+          "title": "E2-A1: Queen's Gambit I (21:20)"
+        },
+        {
+          "title": "E2-A2: Queen's Gambit II (22:50)"
+        },
+        {
+          "title": "E2-A3: Queen's Gambit III (00:25)"
+        },
+        {
+          "title": "E2-A4: Queen's Gambit IV (00:30)"
+        },
+        {
+          "title": "E2-B1: Castling I (22:30)"
+        },
+        {
+          "title": "E2-B2: Castling II (00:05)"
+        },
+        {
+          "title": "E2-B3: Castling III (02:14)"
+        },
+        {
+          "title": "E2-B4: Castling IV (03:15)"
+        },
+        {
+          "title": "E2-C1: Promotion I (20:10)"
+        },
+        {
+          "title": "E2-C2: Promotion II (21:50)"
+        },
+        {
+          "title": "E2-C3: Promotion III (00:30)"
+        },
+        {
+          "title": "E2-C4: Promotion IV (03:15)"
+        },
+        {
+          "title": "E2-D1: Minor Pieces Draw I (22:10)"
+        },
+        {
+          "title": "E2-D2: Minor Pieces Draw II (00:00)"
+        },
+        {
+          "title": "E2-D3: Minor Pieces Draw III (00:30)"
+        },
+        {
+          "title": "E2-D4: Minor Pieces Draw IV (01:50)"
+        },
+        {
+          "title": "E2-H: Survivor"
+        },
+        {
+          "title": "E3-1: Last Resort I (06:00)"
+        },
+        {
+          "title": "E3-2: Last Resort II (08:00)"
+        },
+        {
+          "title": "E3-3: Last Resort III (09:00)"
+        },
+        {
+          "title": "E3-4: Last Resort IV (12:30)"
+        },
+        {
+          "title": "E3-5: Last Resort V (13:00)"
+        },
+        {
+          "title": "E3-6: Endgame (13:20)"
+        },
+        {
+          "title": "E3-H: Goodbye, Dragon Palace"
+        },
+        {
+          "title": "Epilogue: Hornet's Nest"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 10.75 - Continuum Turbulence",
+      "stages": [
+        {
+          "title": "E1-1: Ground Zero"
+        },
+        {
+          "title": "E1-2A: Waste"
+        },
+        {
+          "title": "E1-2B: Nightfall"
+        },
+        {
+          "title": "E1-3: Safe House"
+        },
+        {
+          "title": "E1-4: Auxilary Power"
+        },
+        {
+          "title": "E1-5: Reserve Outpost"
+        },
+        {
+          "title": "E1-6A: The Last Day"
+        },
+        {
+          "title": "E1-6B: Farewell, Scarecrow"
+        },
+        {
+          "title": "E1-7A: Peace Negotiations"
+        },
+        {
+          "title": "E1-7B: Bloodless Battlefield"
+        },
+        {
+          "title": "E1-8: Fortunate?"
+        },
+        {
+          "title": "E1-9: Sangvis Elite Outpost"
+        },
+        {
+          "title": "E1-10: Neural Fragments"
+        },
+        {
+          "title": "E1-11: Darkest Desire"
+        },
+        {
+          "title": "E1-12: Final Destination"
+        },
+        {
+          "title": "E2-1: Unknown Enemy"
+        },
+        {
+          "title": "E2-2: \"Support\""
+        },
+        {
+          "title": "E2-3A: Griffin Expendables"
+        },
+        {
+          "title": "E2-3B: Roaring Sun"
+        },
+        {
+          "title": "E2-4: Defense Outpost 2"
+        },
+        {
+          "title": "E2-5A: Defense Outpost 3"
+        },
+        {
+          "title": "E2-5B: Howl of Terror"
+        },
+        {
+          "title": "E2-6A: Defense Outpost 4"
+        },
+        {
+          "title": "E2-6B: Just Kidding"
+        },
+        {
+          "title": "E2-7A: Exploratory Attack"
+        },
+        {
+          "title": "E2-7B: General Offensive"
+        },
+        {
+          "title": "E2-8: For the Future"
+        },
+        {
+          "title": "E2-9: Black Doll"
+        },
+        {
+          "title": "E2-10A: Final Flight"
+        },
+        {
+          "title": "E2-10B: Safe and Sound"
+        },
+        {
+          "title": "E2-10C: Safe and Sound"
+        },
+        {
+          "title": "E3-1: ELID-Infected"
+        },
+        {
+          "title": "E3-2: Signal Flare"
+        },
+        {
+          "title": "E3-3A: Yellow Zone"
+        },
+        {
+          "title": "E3-3B: Red Zone"
+        },
+        {
+          "title": "E3-4A: Mark"
+        },
+        {
+          "title": "E3-4B: Final Order"
+        },
+        {
+          "title": "E3-4C: Vengeance"
+        },
+        {
+          "title": "E3-5: A New Hope"
+        },
+        {
+          "title": "E3-6A: Vile Rats"
+        },
+        {
+          "title": "E3-6B: Sum of All Wraths"
+        },
+        {
+          "title": "E3-7A: Bad News"
+        },
+        {
+          "title": "E3-7B: Luck"
+        },
+        {
+          "title": "E3-8: IED"
+        },
+        {
+          "title": "E3-9A: Stumbling Block"
+        },
+        {
+          "title": "E3-9B: Victor"
+        },
+        {
+          "title": "E3-10: White Doll"
+        },
+        {
+          "title": "Epilogue: Exile"
+        },
+        {
+          "title": "Ranking: Hurricane Rescue"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 11.5 - Isomer",
+      "stages": [
+        {
+          "title": "Prologue: Souvenir"
+        },
+        {
+          "title": "E1-A1: Illusory Peace I"
+        },
+        {
+          "title": "E1-A1: Illusory Peace I - Branch"
+        },
+        {
+          "title": "E1-A2: Illusory Peace II"
+        },
+        {
+          "title": "E1-A2: Illusory Peace II - Branch"
+        },
+        {
+          "title": "E1-A3: Illusory Peace III"
+        },
+        {
+          "title": "E1-A4: Illusory Peace IV"
+        },
+        {
+          "title": "E1-A5: Illusory Peace V"
+        },
+        {
+          "title": "E1-B1: Cat and Mouse I"
+        },
+        {
+          "title": "E1-B2: Cat and Mouse II"
+        },
+        {
+          "title": "E1-B3: Cat and Mouse III"
+        },
+        {
+          "title": "E1-B3: Cat and Mouse III - Branch"
+        },
+        {
+          "title": "E1-B4: Cat and Mouse IV"
+        },
+        {
+          "title": "E1-C1: Beyond the Border I"
+        },
+        {
+          "title": "E1-C2: Beyond the Border II"
+        },
+        {
+          "title": "E1-C3: Beyond the Border III"
+        },
+        {
+          "title": "E1-C4: Beyond the Border IV"
+        },
+        {
+          "title": "E2-A1: Faith of Blood I"
+        },
+        {
+          "title": "E2-A1: Faith of Blood I - Branch I"
+        },
+        {
+          "title": "E2-A1: Faith of Blood I - Branch II"
+        },
+        {
+          "title": "E2-A2: Faith of Blood II"
+        },
+        {
+          "title": "E2-A2: Faith of Blood II - Branch"
+        },
+        {
+          "title": "E2-A3: Faith of Blood III"
+        },
+        {
+          "title": "E2-B1: Wolf and Owl I"
+        },
+        {
+          "title": "E2-B1: Wolf and Owl I - Branch"
+        },
+        {
+          "title": "E2-B2: Wolf and Owl II"
+        },
+        {
+          "title": "E2-B3: Wolf and Owl III"
+        },
+        {
+          "title": "E2-B4: Wolf and Owl IV"
+        },
+        {
+          "title": "E2-C1: Under the Wall I"
+        },
+        {
+          "title": "E2-C2: Under the Wall II"
+        },
+        {
+          "title": "E3-A1: Lost Bargaining Chip I"
+        },
+        {
+          "title": "E3-A2: Lost Bargaining Chip II"
+        },
+        {
+          "title": "E3-A3: Lost Bargaining Chip III"
+        },
+        {
+          "title": "E3-B1: Shark and the Sea I"
+        },
+        {
+          "title": "E3-B2: Shark and the Sea II"
+        },
+        {
+          "title": "E3-B3: Shark and the Sea III"
+        },
+        {
+          "title": "E3-B4: Shark and the Sea IV"
+        },
+        {
+          "title": "E3-B5: Shark and the Sea V"
+        },
+        {
+          "title": "E3-B6: Shark and the Sea VI"
+        },
+        {
+          "title": "E3-B7: Shark and the Sea VII"
+        },
+        {
+          "title": "E4-1: Above the Hubbub I"
+        },
+        {
+          "title": "E4-2: Above the Hubbub II"
+        },
+        {
+          "title": "E4-2: Above the Hubbub II - Branch"
+        },
+        {
+          "title": "E4-3: Above the Hubbub III"
+        },
+        {
+          "title": "E4-4: Above the Hubbub IV"
+        },
+        {
+          "title": "E4-5: Above the Hubbub V"
+        },
+        {
+          "title": "E4-6: Above the Hubbub VI"
+        },
+        {
+          "title": "E4-6: Above the Hubbub VI - Branch I"
+        },
+        {
+          "title": "E4-6: Above the Hubbub VI - Branch II"
+        },
+        {
+          "title": "Epilogue: Reign of Chaos"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 11.75 - Shattered Connexion",
+      "stages": [
+        {
+          "title": "E1-1: Quiet Presence"
+        },
+        {
+          "title": "E1-2: Two Jobs"
+        },
+        {
+          "title": "E1-3: Tracing the Source"
+        },
+        {
+          "title": "E1-4: Reunion With Old Friends"
+        },
+        {
+          "title": "E1-5: Shackled Spirit I"
+        },
+        {
+          "title": "E2-1: Bound Spirit II"
+        },
+        {
+          "title": "E2-2: Intangible Sigh I"
+        },
+        {
+          "title": "E2-3: Nameless Exiles I"
+        },
+        {
+          "title": "E2-4: Nameless Exiles II"
+        },
+        {
+          "title": "E2-5: Intangible Sigh II"
+        },
+        {
+          "title": "E3-1: Fractured Cognition I"
+        },
+        {
+          "title": "E3-2: Fractured Cognition II"
+        },
+        {
+          "title": "E3-3: Subsurface Homecoming I"
+        },
+        {
+          "title": "E3-4: The Unwelcome"
+        },
+        {
+          "title": "E3-5: Fractured Cognition III"
+        },
+        {
+          "title": "E3-6: Fractured Cognition IV"
+        },
+        {
+          "title": "E4-1: Infinite Connections"
+        },
+        {
+          "title": "E4-2: Subsurface Homecoming II"
+        },
+        {
+          "title": "E4-3: Isomer I"
+        },
+        {
+          "title": "E4-4: Subsurface Homecoming III"
+        },
+        {
+          "title": "E4-5: Isomer II"
+        },
+        {
+          "title": "E5-1: A Rock and a Hard Place"
+        },
+        {
+          "title": "E5-2: Operation Defang I"
+        },
+        {
+          "title": "E5-3: Operation Defang II"
+        },
+        {
+          "title": "E5-4: All-Devouring Sea of Flowers"
+        },
+        {
+          "title": "E5-5: Farewell, Tallinn I"
+        },
+        {
+          "title": "E5-6: Farewell, Tallinn II"
+        },
+        {
+          "title": "Epilogue: Flowers of the End"
+        },
+        {
+          "title": "Confidential Information I"
+        },
+        {
+          "title": "Confidential Information II"
+        },
+        {
+          "title": "Confidential Information III"
+        },
+        {
+          "title": "Confidential Information IV"
+        },
+        {
+          "title": "Confidential Information V"
+        },
+        {
+          "title": "Confidential Information VI"
+        },
+        {
+          "title": "Confidential Information VII"
+        },
+        {
+          "title": "Confidential Information VIII"
+        },
+        {
+          "title": "Confidential Information IX"
+        },
+        {
+          "title": "Confidential Information X"
+        },
+        {
+          "title": "Confidential Information XI"
+        },
+        {
+          "title": "Confidential Information XII"
+        },
+        {
+          "title": "Confidential Information XIII"
+        },
+        {
+          "title": "Confidential Information XIV"
+        },
+        {
+          "title": "Confidential Information XV"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 12.5 - Polarized Light",
+      "stages": [
+        {
+          "title": "E1-1: Lamp Starter"
+        },
+        {
+          "title": "E1-2: Propagation"
+        },
+        {
+          "title": "E1-3: Refraction Point"
+        },
+        {
+          "title": "E1-4: Critical Angle I"
+        },
+        {
+          "title": "E1-5: Reflector"
+        },
+        {
+          "title": "E1-6: Critical Angle II"
+        },
+        {
+          "title": "E1-7: Total Internal Reflection"
+        },
+        {
+          "title": "E1-8: Sine Curve"
+        },
+        {
+          "title": "E1-9: Reversibility"
+        },
+        {
+          "title": "E1-10: Cosine Signal"
+        },
+        {
+          "title": "E2-1: Polarizer"
+        },
+        {
+          "title": "E2-2: Diffraction Grating"
+        },
+        {
+          "title": "E2-3: Waveguide"
+        },
+        {
+          "title": "E2-4: Beam Splitter"
+        },
+        {
+          "title": "E2-5: Interferometer"
+        },
+        {
+          "title": "E2-6: Aperture"
+        },
+        {
+          "title": "E2-7: Vacuum Tube"
+        },
+        {
+          "title": "E2-8: Accelerator"
+        },
+        {
+          "title": "E2-9: Spectrometer"
+        },
+        {
+          "title": "E2-10: Analyzer"
+        },
+        {
+          "title": "E3-1: Enantiomer Overload I"
+        },
+        {
+          "title": "E3-2: Enantiomer Overload II"
+        },
+        {
+          "title": "E3-3: Recrystalization Resolution I"
+        },
+        {
+          "title": "E3-4: Shattered Plane of Polarization I"
+        },
+        {
+          "title": "E3-5: Recrystalization Resolution II"
+        },
+        {
+          "title": "E3-6: Shattered Plane of Polarization II"
+        },
+        {
+          "title": "E3-7: Asymmetric Induction"
+        },
+        {
+          "title": "E3-8: Optical Isomer"
+        },
+        {
+          "title": "E4-1: Milling"
+        },
+        {
+          "title": "E4-2: Mixing"
+        },
+        {
+          "title": "E4-3: Pre-Heating"
+        },
+        {
+          "title": "E4-4: Sintering"
+        },
+        {
+          "title": "E4-5: Foaming"
+        },
+        {
+          "title": "E4-6: Foam Stabilization"
+        },
+        {
+          "title": "E4-7: Molding"
+        },
+        {
+          "title": "E4-8: Annealing"
+        },
+        {
+          "title": "E4-9: Tempering"
+        },
+        {
+          "title": "E4-10: Cutting"
+        },
+        {
+          "title": "E4-11: Polishing"
+        },
+        {
+          "title": "E4-12: Silvering"
+        },
+        {
+          "title": "E4-13: Virtual Image Reforging"
+        },
+        {
+          "title": "E5-1: Unfathomable Singularity"
+        },
+        {
+          "title": "E5-2: Observable Limits"
+        },
+        {
+          "title": "E5-3: Light Cone Frame of Reference"
+        },
+        {
+          "title": "E5-4: Causality Separating Plane"
+        },
+        {
+          "title": "E5-5: Blackbody Radiation"
+        },
+        {
+          "title": "E5-6: Escape Acceleration"
+        },
+        {
+          "title": "E5-7: Through the Event Horizon"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 13.25 - Dual Randomness",
+      "stages": [
+        {
+          "title": "E1-1A: Departure Time I"
+        },
+        {
+          "title": "E1-2A: Departure Time II"
+        },
+        {
+          "title": "E1-3A: Departure Time III"
+        },
+        {
+          "title": "E1-4A: Departure Time IV"
+        },
+        {
+          "title": "E1-1B: The Curtain Rises I"
+        },
+        {
+          "title": "E1-1B: The Curtain Rises II"
+        },
+        {
+          "title": "E2-1A: Pollinosis I"
+        },
+        {
+          "title": "E2-2A: Pollinosis II"
+        },
+        {
+          "title": "E2-3A: Pollinosis III"
+        },
+        {
+          "title": "E2-4A: Pollinosis IV"
+        },
+        {
+          "title": "E2-5A: Pollinosis V"
+        },
+        {
+          "title": "E2-6A: Pollinosis VI"
+        },
+        {
+          "title": "E2-1B: Hay Fever - Beginning"
+        },
+        {
+          "title": "E2-2B: Clown"
+        },
+        {
+          "title": "E2-3B: Flower View"
+        },
+        {
+          "title": "E2-4B: Gathering Frost Wolves"
+        },
+        {
+          "title": "E2-5B: Light Show"
+        },
+        {
+          "title": "E2-6B: Hay Fever - End"
+        },
+        {
+          "title": "E3-1A: Ghost Sisters I"
+        },
+        {
+          "title": "E3-2A: Ghost Sisters II"
+        },
+        {
+          "title": "E3-3A: Ghost Sisters III"
+        },
+        {
+          "title": "E3-4A: Ghost Sisters IV"
+        },
+        {
+          "title": "E3-5A: Ghost Sisters V"
+        },
+        {
+          "title": "E3-6A: Ghost Sisters VI"
+        },
+        {
+          "title": "E3-1B: Sweet Dreams Box - Beginning"
+        },
+        {
+          "title": "E3-2B: Piper"
+        },
+        {
+          "title": "E3-3B: Cuckoo Clock"
+        },
+        {
+          "title": "E3-4B: Air Raid Shelter"
+        },
+        {
+          "title": "E3-5B: Rag Doll"
+        },
+        {
+          "title": "E3-6B: Sweet Dreams Box - End"
+        },
+        {
+          "title": "E4-1A: Operation Snake Eater I"
+        },
+        {
+          "title": "E4-2A: Operation Snake Eater II"
+        },
+        {
+          "title": "E4-3A: Operation Snake Eater III"
+        },
+        {
+          "title": "E4-4A: Operation Snake Eater IV"
+        },
+        {
+          "title": "E4-5A: Operation Snake Eater V"
+        },
+        {
+          "title": "E4-1B: Delta Attack – Beginning"
+        },
+        {
+          "title": "E4-2B: Spiderweb"
+        },
+        {
+          "title": "E4-3B: House of Cards"
+        },
+        {
+          "title": "E4-4B: Animal Chess"
+        },
+        {
+          "title": "E4-5B: Instigator"
+        },
+        {
+          "title": "E4-6B: Delta Attack – End"
+        },
+        {
+          "title": "E5-1: Infernal Enlightenment I"
+        },
+        {
+          "title": "E5-2: Infernal Enlightenment II"
+        },
+        {
+          "title": "E5-3: Infernal Enlightenment III"
+        },
+        {
+          "title": "E5-4: Infernal Enlightenment IV"
+        },
+        {
+          "title": "E5-5: Infernal Enlightenment V"
+        },
+        {
+          "title": "E6-1A: Foreshadowed Voyage"
+        },
+        {
+          "title": "E6-1B: Bridge of Eternity"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 13.5 - Mirror Stage",
+      "stages": [
+        {
+          "title": "E1-1A: Absent"
+        },
+        {
+          "title": "E1-2A: An Arrow in Flight I"
+        },
+        {
+          "title": "E1-1B: Selene’s Dream"
+        },
+        {
+          "title": "E1-1C: The Way of What is to Come"
+        },
+        {
+          "title": "E1-2C: Survival Guide"
+        },
+        {
+          "title": "E1-2B: Wrestling Snakes I"
+        },
+        {
+          "title": "E1-3B: Wrestling Snakes II"
+        },
+        {
+          "title": "E1-3A: An Arrow in Flight II"
+        },
+        {
+          "title": "E1-4B: The Birth of Apate I"
+        },
+        {
+          "title": "E1-4A: Torricelli’s Trumpet I"
+        },
+        {
+          "title": "E1-5A: Torricelli’s Trumpet II"
+        },
+        {
+          "title": "E1-5B: The Birth of Apate II"
+        },
+        {
+          "title": "E1-3C: Lurking"
+        },
+        {
+          "title": "E1-6A: Torricelli’s Trumpet III"
+        },
+        {
+          "title": "E1-6B: Hemera Points to the Light I"
+        },
+        {
+          "title": "E1-7B: Hemera Points to the Light II"
+        },
+        {
+          "title": "E1-8B: Hemera Points to the Light III"
+        },
+        {
+          "title": "E1-7A: Athena’s Owl"
+        },
+        {
+          "title": "E1-9B: Shoulders of a Griffin I"
+        },
+        {
+          "title": "E1-11B: Shoulders of a Griffin III"
+        },
+        {
+          "title": "DRF24"
+        },
+        {
+          "title": "E2-1B: Ship of Theseus I"
+        },
+        {
+          "title": "E2-2B: Ship of Theseus II"
+        },
+        {
+          "title": "E2-3B: Ship of Theseus III"
+        },
+        {
+          "title": "E2-1A: Balls and Vase"
+        },
+        {
+          "title": "E2-2A: Cretan Liar"
+        },
+        {
+          "title": "E2-4B: Ariadne’s Clew I"
+        },
+        {
+          "title": "E2-5B: One-Sided Recollection"
+        },
+        {
+          "title": "E2-1C: Reflection"
+        },
+        {
+          "title": "E2-3A: Heraclitus’ River I"
+        },
+        {
+          "title": "E2-4A: Heraclitus’ River II"
+        },
+        {
+          "title": "E2-7B: Ariadne’s Clew III"
+        },
+        {
+          "title": "E2-5A: Heraclitus’ River III"
+        },
+        {
+          "title": "E2-2C: Cracks"
+        },
+        {
+          "title": "E2-6A: The Grain of Millet I"
+        },
+        {
+          "title": "E2-7A: The Grain of Millet II"
+        },
+        {
+          "title": "E2-8B: Cretan Labyrinth I"
+        },
+        {
+          "title": "E2-9B: Cretan Labyrinth II"
+        },
+        {
+          "title": "E2-10B: Cretan Labyrinth III"
+        },
+        {
+          "title": "E2-3C: The Indecipherable Heart"
+        },
+        {
+          "title": "E2-8A: The Grain of Millet III"
+        },
+        {
+          "title": "E2-11B: Dreams on the Island of Dia I"
+        },
+        {
+          "title": "E2-4C: Night Festival"
+        },
+        {
+          "title": "E2-12B: Dreams on the Island of Dia II"
+        },
+        {
+          "title": "E2-9A: The Prisoner’s Dilemma I"
+        },
+        {
+          "title": "E2-13B: Dreams on the Island of Dia III"
+        },
+        {
+          "title": "E2-14B: Dreams on the Island of Dia IV"
+        },
+        {
+          "title": "E2-11A: The Prisoner’s Dilemma III"
+        },
+        {
+          "title": "E2-5C: Flash"
+        },
+        {
+          "title": "DRF24"
+        },
+        {
+          "title": "E3-1A: Cratylus’ River I"
+        },
+        {
+          "title": "E3-1B: Defying the Moerae I"
+        },
+        {
+          "title": "E3-3B: Defying the Moerae III"
+        },
+        {
+          "title": "E3-4B: Clothos’ Thread I"
+        },
+        {
+          "title": "E3-5B: Clothos’ Thread II"
+        },
+        {
+          "title": "E3-6B: Clothos’ Thread III"
+        },
+        {
+          "title": "E3-3A: Cratylus’ River III"
+        },
+        {
+          "title": "E3-4A: Achilles and the Tortoise I"
+        },
+        {
+          "title": "E3-7B: Lachesis’ Measure I"
+        },
+        {
+          "title": "E3-8B: Lachesis’ Measure II"
+        },
+        {
+          "title": "E3-9B: Lachesis’ Measure III"
+        },
+        {
+          "title": "E3-10B: Atropos’ Shears I"
+        },
+        {
+          "title": "E3-11B: Atropos’ Shears II"
+        },
+        {
+          "title": "E3-6A: Achilles and the Tortoise III"
+        },
+        {
+          "title": "E3-12B: Atropos’ Shears III"
+        },
+        {
+          "title": "E3-13B: Zeno’s Circle of Knowledge"
+        },
+        {
+          "title": "DRF24"
+        },
+        {
+          "title": "E4-1A: Schrödinger’s Cat"
+        },
+        {
+          "title": "E4-1B: Nyx’s Night I"
+        },
+        {
+          "title": "E4-1C: Remembrance"
+        },
+        {
+          "title": "E4-2A: Pandora’s Box I"
+        },
+        {
+          "title": "E4-2B: Nyx’s Night II"
+        },
+        {
+          "title": "E4-3B: Nyx’s Night III"
+        },
+        {
+          "title": "E4-4B: Nyx’s Night IV"
+        },
+        {
+          "title": "E4-4A: Pandora’s Box III"
+        },
+        {
+          "title": "E4-5B: Hypnos’ Eyes I"
+        },
+        {
+          "title": "E4-7B: Hypnos’ Eyes III"
+        },
+        {
+          "title": "E4-5A: Brain in a Vat I"
+        },
+        {
+          "title": "E4-8B: Thanatos’ Kiss I"
+        },
+        {
+          "title": "E4-10B: Thanatos’ Kiss III"
+        },
+        {
+          "title": "E4-7A: Brain in a Vat III"
+        },
+        {
+          "title": "E4-11B: Chaos’ Abyss I"
+        },
+        {
+          "title": "E4-12B: Chaos’ Abyss II"
+        },
+        {
+          "title": "E4-8A: Möbius Strip"
+        },
+        {
+          "title": "E4-13B: Chaos’ Abyss III"
+        },
+        {
+          "title": "DRF24"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 13.75 - Poincare Recurrence",
+      "stages": [
+        {
+          "title": "①"
+        },
+        {
+          "title": "②"
+        },
+        {
+          "title": "③"
+        },
+        {
+          "title": "④"
+        },
+        {
+          "title": "⑤"
+        },
+        {
+          "title": "⑥"
+        },
+        {
+          "title": "⑦"
+        },
+        {
+          "title": "⑧"
+        },
+        {
+          "title": "⑨"
+        },
+        {
+          "title": "⑩"
+        },
+        {
+          "title": "⑪"
+        },
+        {
+          "title": "⑫"
+        },
+        {
+          "title": "⑬"
+        },
+        {
+          "title": "⑭"
+        },
+        {
+          "title": "⑮"
+        },
+        {
+          "title": "Ⅰ"
+        },
+        {
+          "title": "Ⅱ"
+        },
+        {
+          "title": "Ⅲ"
+        },
+        {
+          "title": "Ⅳ"
+        },
+        {
+          "title": "Ⅴ"
+        },
+        {
+          "title": "Ⅵ"
+        },
+        {
+          "title": "Ⅶ"
+        },
+        {
+          "title": "Ⅷ"
+        },
+        {
+          "title": "Ⅸ"
+        },
+        {
+          "title": "Ⅹ"
+        },
+        {
+          "title": "Ⅺ"
+        },
+        {
+          "title": "Ⅻ"
+        },
+        {
+          "title": "ⅩⅠⅠⅠ"
+        },
+        {
+          "title": "ⅩⅠⅤ"
+        },
+        {
+          "title": "ⅩⅤ"
+        },
+        {
+          "title": "ⅠA"
+        },
+        {
+          "title": "ⅡA"
+        },
+        {
+          "title": "ⅢB"
+        },
+        {
+          "title": "ⅣB"
+        },
+        {
+          "title": "ⅤB"
+        },
+        {
+          "title": "ⅥB"
+        },
+        {
+          "title": "ⅦB"
+        },
+        {
+          "title": "ⅠB"
+        },
+        {
+          "title": "ⅡB"
+        },
+        {
+          "title": "ⅢA"
+        },
+        {
+          "title": "ⅣA"
+        },
+        {
+          "title": "ⅤA"
+        },
+        {
+          "title": "ⅥA"
+        },
+        {
+          "title": "ⅦA"
+        },
+        {
+          "title": "alpha"
+        },
+        {
+          "title": "beta"
+        },
+        {
+          "title": "gamma"
+        },
+        {
+          "title": "delta"
+        },
+        {
+          "title": "epsilon"
+        },
+        {
+          "title": "zeta"
+        },
+        {
+          "title": "eta"
+        },
+        {
+          "title": "theta"
+        },
+        {
+          "title": "iota"
+        },
+        {
+          "title": "kappa"
+        },
+        {
+          "title": "lambda"
+        },
+        {
+          "title": "mu"
+        },
+        {
+          "title": "nu"
+        },
+        {
+          "title": "1"
+        },
+        {
+          "title": "10"
+        },
+        {
+          "title": "11"
+        },
+        {
+          "title": "100"
+        },
+        {
+          "title": "101"
+        },
+        {
+          "title": "110"
+        },
+        {
+          "title": "111"
+        },
+        {
+          "title": "1000"
+        },
+        {
+          "title": "1010"
+        },
+        {
+          "title": "pico"
+        },
+        {
+          "title": "nano"
+        },
+        {
+          "title": "micro"
+        },
+        {
+          "title": "milli"
+        },
+        {
+          "title": "centi"
+        },
+        {
+          "title": "deci"
+        },
+        {
+          "title": "deca"
+        },
+        {
+          "title": "hecta"
+        },
+        {
+          "title": "kilo"
+        },
+        {
+          "title": "Mega"
+        },
+        {
+          "title": "Giga"
+        },
+        {
+          "title": "Tera"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 13.8 - Fixed Point",
+      "stages": [
+        {
+          "title": "E1-1: Stinger"
+        },
+        {
+          "title": "E1-2: Black Box"
+        },
+        {
+          "title": "E1-3: Secret Watch"
+        },
+        {
+          "title": "E1-4: Pursuit I"
+        },
+        {
+          "title": "E1-5: Pursuit II"
+        },
+        {
+          "title": "E1-6: Nike I"
+        },
+        {
+          "title": "E1-7: Nike II"
+        },
+        {
+          "title": "E1-8: \"Dead Sea\""
+        },
+        {
+          "title": "E2-1: Flutter"
+        },
+        {
+          "title": "E2-2: Cangue-Breaking"
+        },
+        {
+          "title": "E2-3: Wheelrut"
+        },
+        {
+          "title": "E2-4: Lurking I"
+        },
+        {
+          "title": "E2-5: Lurking II"
+        },
+        {
+          "title": "E2-6: Lurking III"
+        },
+        {
+          "title": "E2-7: Vortex"
+        },
+        {
+          "title": "E2-8: Gardener"
+        },
+        {
+          "title": "E3-1: Commencement"
+        },
+        {
+          "title": "E3-2: Transverse Sectioning"
+        },
+        {
+          "title": "E3-3: Against The Light I"
+        },
+        {
+          "title": "E3-4: Against The Light II"
+        },
+        {
+          "title": "E3-5: Intersection Point I"
+        },
+        {
+          "title": "E3-6: Intersection Point II"
+        },
+        {
+          "title": "E3-7: Strongarm"
+        },
+        {
+          "title": "E3-8: Fissure"
+        },
+        {
+          "title": "E3-9: Blood Moon I"
+        },
+        {
+          "title": "E3-10: Blood Moon II"
+        },
+        {
+          "title": "E3-11: Eclipse View"
+        },
+        {
+          "title": "E3-12: Reflection"
+        },
+        {
+          "title": "E4-1: Open The Way"
+        },
+        {
+          "title": "E4-2: Elevation"
+        },
+        {
+          "title": "E4-3: Ascent"
+        },
+        {
+          "title": "E4-4: Trample"
+        },
+        {
+          "title": "E4-5: Incursion"
+        },
+        {
+          "title": "E4-6: Old Rain I"
+        },
+        {
+          "title": "E4-7: Old Rain II"
+        },
+        {
+          "title": "E4-8: Lonely Island I"
+        },
+        {
+          "title": "E4-9: Lonely Island II"
+        },
+        {
+          "title": "E4-10: Traitor I"
+        },
+        {
+          "title": "E4-11: Traitor II"
+        },
+        {
+          "title": "E4-12: Rebirth I"
+        },
+        {
+          "title": "E4-13: Solution"
+        },
+        {
+          "title": "E4-14: Endpoint"
+        },
+        {
+          "title": "Simulation I"
+        },
+        {
+          "title": "Simulation II"
+        },
+        {
+          "title": "Simulation III"
+        },
+        {
+          "title": "Simulation IV"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 13.9 - Longitudinal Strain",
+      "stages": [
+        {
+          "title": "1 Train Timetable"
+        },
+        {
+          "title": "2 Radiation Alarm"
+        },
+        {
+          "title": "3 Bar Counter"
+        },
+        {
+          "title": "3-α1 Waltz in A minor"
+        },
+        {
+          "title": "3-β1 Gene Takes a Drink"
+        },
+        {
+          "title": "3-γ1 Méditation from Thaïs"
+        },
+        {
+          "title": "3-α3 Raindrop"
+        },
+        {
+          "title": "3-β3 Symphony No. 3"
+        },
+        {
+          "title": "3-γ3 Vladimir’s Blues"
+        },
+        {
+          "title": "3-α4 Little Prelude in G minor"
+        },
+        {
+          "title": "3-γ4 The Well-Tempered Clavier"
+        },
+        {
+          "title": "4 Vintage Gramophone"
+        },
+        {
+          "title": "5 Toilet"
+        },
+        {
+          "title": "5-α5 Moonlight Sonata"
+        },
+        {
+          "title": "5-β4 Introduction and Rondo Capriccioso"
+        },
+        {
+          "title": "5-γ5 The Canary"
+        },
+        {
+          "title": "5-α6 Chaconne"
+        },
+        {
+          "title": "5-β5 Danse Macabre"
+        },
+        {
+          "title": "5-β6 Symphony No. 9"
+        },
+        {
+          "title": "5-α7 Winter"
+        },
+        {
+          "title": "5-β7 Cavalleria Rusticana"
+        },
+        {
+          "title": "5-γ7 Choral Fantasy"
+        },
+        {
+          "title": "6 World Time Zone Clocks"
+        },
+        {
+          "title": "7 Door to First-Class Carriage"
+        },
+        {
+          "title": "8 Rhapsody on a Theme of Paganini"
+        },
+        {
+          "title": "10 L’estro Armonico"
+        },
+        {
+          "title": "11 Large Luggage Rack"
+        },
+        {
+          "title": "12 Gnossienne No. 1"
+        },
+        {
+          "title": "14 Ballade in G minor"
+        },
+        {
+          "title": "15 Windows with a View"
+        },
+        {
+          "title": "16 Concerto Grosso in A minor"
+        },
+        {
+          "title": "17 Brahms Intermezzi"
+        },
+        {
+          "title": "18 The Swan"
+        },
+        {
+          "title": "19 Elegant Bouquet on the Table"
+        },
+        {
+          "title": "20 Vendor’s Pushcart"
+        },
+        {
+          "title": "21 La Campanella"
+        },
+        {
+          "title": "23 Con Espressione"
+        },
+        {
+          "title": "24 Humorous Graffiti"
+        },
+        {
+          "title": "25 Ruslan and Lyudmila"
+        },
+        {
+          "title": "26 Thus Spoke Zarathustra"
+        },
+        {
+          "title": "27 Ride of the Valkyries"
+        },
+        {
+          "title": "28 Maintenance Room"
+        },
+        {
+          "title": "29 Summer"
+        },
+        {
+          "title": "31 Zigeunerweisen"
+        },
+        {
+          "title": "32 1812 Overture"
+        },
+        {
+          "title": "33 Air on the G string"
+        },
+        {
+          "title": "34 Trapdoor"
+        },
+        {
+          "title": "35 Hanging Screen"
+        },
+        {
+          "title": "35-T1 Étude No. 2"
+        },
+        {
+          "title": "35-T2 Prelude No. 5"
+        },
+        {
+          "title": "35-T3 Romance"
+        },
+        {
+          "title": "35-T4 Moments Musicaux"
+        },
+        {
+          "title": "35-R1 Tzigane"
+        },
+        {
+          "title": "35-R2 Sommeraften"
+        },
+        {
+          "title": "35-R3 Piano Quintet in B minor"
+        },
+        {
+          "title": "35-R4 Piano Concerto in F minor"
+        },
+        {
+          "title": "35-W1 Solveig’s Song"
+        },
+        {
+          "title": "35-W2 Clarinet Concerto in A Major"
+        },
+        {
+          "title": "35-W3 Tour di Mantova"
+        },
+        {
+          "title": "35-W4 Tristesse"
+        },
+        {
+          "title": "35-N1 Fantaisie-Impromptu"
+        },
+        {
+          "title": "35-N2 Spring Sonata"
+        },
+        {
+          "title": "35-N3 Minuet"
+        },
+        {
+          "title": "35-C1 Gymnopedie"
+        },
+        {
+          "title": "35-C2 Moon River"
+        },
+        {
+          "title": "35-C3 Starry Starry Night"
+        },
+        {
+          "title": "35-C4 O Sole Mio"
+        },
+        {
+          "title": "35-P1 Twelve Variations on “Ah vous dirai-je, Maman”"
+        },
+        {
+          "title": "35-P2 Death and the Maiden"
+        },
+        {
+          "title": "35-P3 Salut d’Amour"
+        },
+        {
+          "title": "36 Vox Lux"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 13.95 - Eclipses & Saros",
+      "stages": [
+        {
+          "title": "E1: Long-Period Perturbation"
+        },
+        {
+          "title": "E2: Short-Period Perturbation"
+        },
+        {
+          "title": "E3: Lunar Orbital Inclination"
+        },
+        {
+          "title": "E5: Catastrophe"
+        },
+        {
+          "title": "E6A: Ingress"
+        },
+        {
+          "title": "E6B: Egress"
+        },
+        {
+          "title": "E7: Homology"
+        },
+        {
+          "title": "E9: Capture"
+        },
+        {
+          "title": "E10A: Antumbra"
+        },
+        {
+          "title": "E10B: Umbra"
+        },
+        {
+          "title": "E11: Annulus"
+        },
+        {
+          "title": "E13: Planetary Ring"
+        },
+        {
+          "title": "E14A: Mare Crisium"
+        },
+        {
+          "title": "E14B: Mare Tranquillitatis"
+        },
+        {
+          "title": "E15: Lunar Node"
+        },
+        {
+          "title": "E16: Third Contact"
+        },
+        {
+          "title": "E17: Last Contact"
+        },
+        {
+          "title": "E18A: Outer Lagrange Point"
+        },
+        {
+          "title": "E18B: Inner Lagrange Point"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 14 - Slow Shock",
+      "stages": [
+        {
+          "title": "E1-1 Black Iris"
+        },
+        {
+          "title": "E1-2A WTR In the Wild North"
+        },
+        {
+          "title": "E1-3A WTR Beech Grove I"
+        },
+        {
+          "title": "E1-5A WTR Stag Beetle"
+        },
+        {
+          "title": "E1-7A WTR Morning Sunlight on the Snow"
+        },
+        {
+          "title": "E1-8A WTR The Pontine Marshes at Sunset"
+        },
+        {
+          "title": "E1-2B SPR Evening: Red Tree"
+        },
+        {
+          "title": "E1-4B SPR Gray Tree"
+        },
+        {
+          "title": "E1-6B SPR Tableau No. 1"
+        },
+        {
+          "title": "E1-7B SPR Wing of a Blue Roller"
+        },
+        {
+          "title": "E1-2C SUM The Swan, Group IV No. 1"
+        },
+        {
+          "title": "E1-3C SUM Sunlight in the Blue Room"
+        },
+        {
+          "title": "E1-4C SUM The Angelus"
+        },
+        {
+          "title": "E1-5C SUM Blown Away"
+        },
+        {
+          "title": "E1-7C SUM The Goldfinch"
+        },
+        {
+          "title": "E1-9C SUM The Swan, Group IX No. 6"
+        },
+        {
+          "title": "E1-2D AUT Harmony in Blue and Silver"
+        },
+        {
+          "title": "E1-3D AUT Fiddler on the Roof"
+        },
+        {
+          "title": "E1-5D AUT The Wave"
+        },
+        {
+          "title": "E1-6D AUT Clock with Blue Wing"
+        },
+        {
+          "title": "E1-7D AUT Death and Life"
+        },
+        {
+          "title": "E1-8D AUT Moonlit Night on the Dnipro"
+        },
+        {
+          "title": "E2-1 L1 Tree of Life"
+        },
+        {
+          "title": "E2-2 L2 Central Control Room Monitor"
+        },
+        {
+          "title": "E2-3 L3 Operating Table"
+        },
+        {
+          "title": "E2-5 L5 Left Turn-Right Turn"
+        },
+        {
+          "title": "E2-6 L6 Pass Box"
+        },
+        {
+          "title": "E2-7 L7 Purifier"
+        },
+        {
+          "title": "E2-8 L8 Girl Before a Mirror"
+        },
+        {
+          "title": "E3-1 F1 The Red Rider"
+        },
+        {
+          "title": "E3-2 F2 Wanderer above the Sea of Fog"
+        },
+        {
+          "title": "E3-4 F4 Arrangement in Grey and Black"
+        },
+        {
+          "title": "E3-5 F5 Allegory of Sculpture"
+        },
+        {
+          "title": "E3-7 F7 The Son of Man"
+        },
+        {
+          "title": "E3-8 F8 The Persistence of Memory"
+        },
+        {
+          "title": "E3-10 F10 White on White"
+        },
+        {
+          "title": "E3-11 F11 The Crossing of the Red Sea"
+        },
+        {
+          "title": "E3-13 The Deluge"
+        },
+        {
+          "title": "E3-14 F14 Knight, Death and the Devil"
+        },
+        {
+          "title": "E3-16 Death and Fire"
+        },
+        {
+          "title": "E3-17 F17 Black Cross"
+        },
+        {
+          "title": "E3-19 F19 Altarpiece No. 1"
+        },
+        {
+          "title": "E3-20 F20 Sunset"
+        },
+        {
+          "title": "E3-21 SSE01 Platform"
+        },
+        {
+          "title": "E3-22 SSE01-1 Passage Below the Platform"
+        },
+        {
+          "title": "E3-23 SSE02 Eastern Tower, Great Hall"
+        },
+        {
+          "title": "E3-24 SSE02-1 Eastern Tower, Level 2 (East)"
+        },
+        {
+          "title": "E3-25 SSE02-2 Eastern Tower, Level 3 (West)"
+        },
+        {
+          "title": "E3-26 SSE03 Bee Sting System"
+        },
+        {
+          "title": "E3-27 SSE03-1 Eastern Tower, Level 32"
+        },
+        {
+          "title": "E3-28 SSE03-2 Eastern Tower, Level 37"
+        },
+        {
+          "title": "E3-29 SSE03-3 Eastern Tower, Level 40"
+        },
+        {
+          "title": "E3-30 SSE04 Relic Experiment Area"
+        },
+        {
+          "title": "E3-31 SSE04-1 Control Center"
+        },
+        {
+          "title": "E3-32 SSE04-2 Visual Simulation Area"
+        },
+        {
+          "title": "E3-33 SSE04-3 Projection Experiment Area"
+        },
+        {
+          "title": "E3-34 SSE05 Operation Level"
+        },
+        {
+          "title": "E3-35 SSE06 Secret Corridor"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.1 - The Summer Garden of Forking Paths",
+      "stages": [
+        {
+          "title": "E1: The Rebel"
+        },
+        {
+          "title": "E2: The Birds"
+        },
+        {
+          "title": "E4: Portrait of a Bird"
+        },
+        {
+          "title": "E5: Luxury, Peace and Pleasure"
+        },
+        {
+          "title": "E6: The Open Window"
+        },
+        {
+          "title": "E8: The King and the Bird"
+        },
+        {
+          "title": "E9: Harmony in Red"
+        },
+        {
+          "title": "E10: The Broken Vase"
+        },
+        {
+          "title": "E11: La Fontaine’s Fables"
+        },
+        {
+          "title": "E12: Dance of the Nymphs"
+        },
+        {
+          "title": "E13: The Cradle"
+        },
+        {
+          "title": "E14: Artificial Paradises"
+        },
+        {
+          "title": "E16: The Card Players"
+        },
+        {
+          "title": "E17: The Lamp"
+        },
+        {
+          "title": "E18: Words in Stone"
+        },
+        {
+          "title": "E20: The Bird Among Ruins"
+        },
+        {
+          "title": "E21: I Live, I Die"
+        },
+        {
+          "title": "E22: After the Fire"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.2 - Cartesian Theater",
+      "stages": [
+        {
+          "title": "E1: Witches’ Sabbath"
+        },
+        {
+          "title": "E2: The Land of Miracles"
+        },
+        {
+          "title": "E4: Fragments of Thoth"
+        },
+        {
+          "title": "E5: Time Transfixed"
+        },
+        {
+          "title": "E6: The Gold of the Azure"
+        },
+        {
+          "title": "E8: Fragments of Thoth II"
+        },
+        {
+          "title": "E9: The Search for Truth"
+        },
+        {
+          "title": "E10: The Lost Jockey"
+        },
+        {
+          "title": "E12: Fragments of Thoth III"
+        },
+        {
+          "title": "E13: The False Mirror"
+        },
+        {
+          "title": "E14: Migratory Birds"
+        },
+        {
+          "title": "E15: The Harlequin’s Carnival"
+        },
+        {
+          "title": "E17: Fragments of Thoth IV"
+        },
+        {
+          "title": "E18: The Blank Signature"
+        },
+        {
+          "title": "E20: Fragments of Thoth V"
+        },
+        {
+          "title": "E21: Sleep"
+        },
+        {
+          "title": "E22: The Birth of the World"
+        },
+        {
+          "title": "E23: Circular Destiny"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.3 - Zero Charge",
+      "stages": [
+        {
+          "title": "E1: A Winter’s Tale"
+        },
+        {
+          "title": "E2: Doppelgaenger"
+        },
+        {
+          "title": "E4: Death of an Airman I"
+        },
+        {
+          "title": "E5: Oppressive Tango"
+        },
+        {
+          "title": "E6: Benighted"
+        },
+        {
+          "title": "E8: Death of an Airman II"
+        },
+        {
+          "title": "E9: Knulp"
+        },
+        {
+          "title": "E10: The Fox Was Ever the Hunter"
+        },
+        {
+          "title": "E12: Death of an Airman III"
+        },
+        {
+          "title": "E13: The Glass Bead Game"
+        },
+        {
+          "title": "E14: The Ultimate Boon"
+        },
+        {
+          "title": "E16: Death of an Airman IV"
+        },
+        {
+          "title": "E17: Pale-Voiced"
+        },
+        {
+          "title": "E18: The Fog Horn"
+        },
+        {
+          "title": "E20: Death of an Airman V"
+        },
+        {
+          "title": "E21: Eye of the Times"
+        },
+        {
+          "title": "E22: Steppenwolf"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.4 - Angular Gyrus",
+      "stages": [
+        {
+          "title": "E1: Petrichor"
+        },
+        {
+          "title": "E2: Mapping Time"
+        },
+        {
+          "title": "E3: Dark River"
+        },
+        {
+          "title": "E4: Lines Outlining Shadows"
+        },
+        {
+          "title": "S1: Light as a Feather I"
+        },
+        {
+          "title": "E6: Trek"
+        },
+        {
+          "title": "E7: Double Exposure"
+        },
+        {
+          "title": "E8: From Hell"
+        },
+        {
+          "title": "E9: Lost in Chaos"
+        },
+        {
+          "title": "S2: Light as a Feather II"
+        },
+        {
+          "title": "E10: A Beautiful Loneliness"
+        },
+        {
+          "title": "E11: The Fog Rises"
+        },
+        {
+          "title": "E12: Lost Fragments"
+        },
+        {
+          "title": "S3: Light as a Feather III"
+        },
+        {
+          "title": "E13: The Gaze"
+        },
+        {
+          "title": "E14: Fade to Black"
+        },
+        {
+          "title": "S4: Light as a Feather IV"
+        },
+        {
+          "title": "E16: Our War"
+        },
+        {
+          "title": "E17: Nowhere to Hide"
+        },
+        {
+          "title": "S5: Light as a Feather V"
+        },
+        {
+          "title": "E19: A Cowering Portrait"
+        },
+        {
+          "title": "E20: Rupture"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.5 - Isolation Forest",
+      "stages": [
+        {
+          "title": "E1: An Overture for Apoptosis"
+        },
+        {
+          "title": "E2: 2 – Secrets Like Skeletons"
+        },
+        {
+          "title": "E3: 3 – The Fruits of Wrath"
+        },
+        {
+          "title": "E5: A Life that has Yet to Bloom I"
+        },
+        {
+          "title": "E6: 5 – An Aquamarine Silence"
+        },
+        {
+          "title": "E7: 6 – The Ruins of Time"
+        },
+        {
+          "title": "E8: 7 – Dark Room"
+        },
+        {
+          "title": "E10: A Life that has Yet to Bloom II"
+        },
+        {
+          "title": "E11: 9 The Corpse of Night is Marooned on a Diverged Path"
+        },
+        {
+          "title": "E12: 10 – The Wilds have Woken Up Around Me"
+        },
+        {
+          "title": "E14: A Life that has Yet to Bloom III"
+        },
+        {
+          "title": "E15: 12 – Fire from a Kingdom of Death"
+        },
+        {
+          "title": "E16: 13 – Swatted by Paleness"
+        },
+        {
+          "title": "E18: A Life that has Yet to Bloom IV"
+        },
+        {
+          "title": "E19: 15 – Lost Bloodstains"
+        },
+        {
+          "title": "E21: A Life that has Yet to Bloom V"
+        },
+        {
+          "title": "E22: 17 – She is at the End of Time"
+        },
+        {
+          "title": "E23: 18 – The Living Keep their Secrets"
+        },
+        {
+          "title": "E24: 19 – A Silent World"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.6 - Convolutional Kernel",
+      "stages": [
+        {
+          "title": "E1: 1 - The Burning Sea of Suffering"
+        },
+        {
+          "title": "E2: The Story of Your Life I"
+        },
+        {
+          "title": "E4: 3- Like a Scorching Wind"
+        },
+        {
+          "title": "E5: 4 – The Silent Folds"
+        },
+        {
+          "title": "E6: 5 – The Futile Path"
+        },
+        {
+          "title": "E7: The Story of Your Life II"
+        },
+        {
+          "title": "E9: 7 – The Defeated Knight of Sorrow"
+        },
+        {
+          "title": "E10: 8 – The Rain That Never Ceases"
+        },
+        {
+          "title": "E11: The Story of Your Life III"
+        },
+        {
+          "title": "E13: 10 – Holding Up the Torch for You"
+        },
+        {
+          "title": "E14: The Story of Your Life IV"
+        },
+        {
+          "title": "E16: 12 – A Forgotten Vow"
+        },
+        {
+          "title": "E17: 13 – The Path to a New World"
+        },
+        {
+          "title": "E18: 14 – The Long Night Stirs in Desolation"
+        },
+        {
+          "title": "E19: The Story of Your Life V"
+        },
+        {
+          "title": "E21: 16 – The Wall That Stands Through Time"
+        },
+        {
+          "title": "E22: 17 – Sand and Seawater by the Shore"
+        },
+        {
+          "title": "E23: 18 – A Brave Soul"
+        },
+        {
+          "title": "E24: The Story of Your Life VI"
+        },
+        {
+          "title": "E26: 20 – The Dragon That Gnaws at Tree Roots"
+        },
+        {
+          "title": "E27: 21 – Beyond Words, the World is Cold"
+        },
+        {
+          "title": "E28: 22 – The Piercing Red"
+        },
+        {
+          "title": "E29: The Story of Your Life VII"
+        },
+        {
+          "title": "E31: 24 – A Lonely Soul’s Prayer"
+        },
+        {
+          "title": "E32: 25 – A Flame Burning in a Desolate World"
+        },
+        {
+          "title": "E33: 26 – The Final Move"
+        },
+        {
+          "title": "E34: 27 – A Song of Defiance"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.7 - Roche Limit",
+      "stages": [
+        {
+          "title": "E1: Tokarev's Memory I"
+        },
+        {
+          "title": "E2: IOP Branch"
+        },
+        {
+          "title": "E3: Frankfurt"
+        },
+        {
+          "title": "E4: Tokarev's Memory II"
+        },
+        {
+          "title": "E5: The Elmo"
+        },
+        {
+          "title": "E6: White Zone - Entrance"
+        },
+        {
+          "title": "E7: White Zone"
+        },
+        {
+          "title": "E8: White Zone - Ground Zero"
+        },
+        {
+          "title": "E9: Tokarev's Memory III"
+        },
+        {
+          "title": "E10: White Zone - Hospital"
+        },
+        {
+          "title": "E11: White Zone - Central Hospital"
+        },
+        {
+          "title": "E12: Tokarev's Memory IV"
+        },
+        {
+          "title": "E13: White Zone - Frankfurt"
+        },
+        {
+          "title": "E14: White Zone - Abandoned Transport Hub"
+        },
+        {
+          "title": "E15: White Zone - Abandoned Metro Network"
+        },
+        {
+          "title": "E16: White Zone - Abandoned Metro Network Final Phase"
+        },
+        {
+          "title": "E17: Singularity"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.8 - Virtual Pair",
+      "stages": [
+        {
+          "title": "E1: Ashen Heaven"
+        },
+        {
+          "title": "E2: Birth of the Devil"
+        },
+        {
+          "title": "E3: Truth"
+        },
+        {
+          "title": "E4: Goddess' Reply"
+        },
+        {
+          "title": "E5: Accolade"
+        },
+        {
+          "title": "E6: Bloodstained Venus"
+        },
+        {
+          "title": "E7: King vs King"
+        },
+        {
+          "title": "E8: Reichenbach's Symphony I"
+        },
+        {
+          "title": "E9: Reichenbach's Symphony II"
+        },
+        {
+          "title": "E10: Player"
+        }
+      ]
+    },
+    {
+      "section": "Story Events",
+      "title": "Episode 15.9 - Quantum Fluctuation",
+      "stages": [
+        {
+          "title": "E1: \"All The Lights in the Sky Are Stars\""
+        },
+        {
+          "title": "E2: \"New World\""
+        },
+        {
+          "title": "E3: \"Past The Infinite Darkness\""
+        },
+        {
+          "title": "E4: \"Achievement Point\""
+        },
+        {
+          "title": "E5: \"The Real Folk Blues, Part I\""
+        },
+        {
+          "title": "E6: \"The Real Folk Blues, Part II\""
+        },
+        {
+          "title": "E7: \"The Vision of Youth\""
+        },
+        {
+          "title": "E8: \"Coming of the Promised Day\""
+        },
+        {
+          "title": "E9: \"My Very Best Friend\""
+        },
+        {
+          "title": "E10: \"The Challengers\""
+        },
+        {
+          "title": "E11: \"Eclipse\""
+        },
+        {
+          "title": "E12: \"Hellfire\""
+        },
+        {
+          "title": "E13: \"Awakening\""
+        },
+        {
+          "title": "E14: \"Initialize\""
+        },
+        {
+          "title": "E15: \"Farewell To Tenderness\""
+        },
+        {
+          "title": "E16: \"From The New World\""
+        },
+        {
+          "title": "E17: \"Crybaby\""
+        },
+        {
+          "title": "E18: \"Seeing A Dream Through to the End\""
+        },
+        {
+          "title": "E19: \"Journey's End\""
+        },
+        {
+          "title": "E20: \"Perfect World\""
+        },
+        {
+          "title": "E21: \"Re;\""
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Halloween 2019: Freaky Pandemic",
+      "stages": [
+        {
+          "title": "E1-1: Freaky Pandemic I"
+        },
+        {
+          "title": "E1-2: Freaky Pandemic II"
+        },
+        {
+          "title": "E1-3: Freaky Pandemic III"
+        },
+        {
+          "title": "E1-4: Freaky Pandemic IV"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Christmas 2019: A Snowy Night Capriccio",
+      "stages": [
+        {
+          "title": "E1-1: Sangvis Orphan"
+        },
+        {
+          "title": "E1-2: Mission: Dinergate"
+        },
+        {
+          "title": "E1-3: X-Dinergates"
+        },
+        {
+          "title": "E1-4: Ode to Gifts"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "White Day 2020: The Photo Studio Mystery",
+      "stages": [
+        {
+          "title": "E1-1: Rumors of the Haunted Mansion"
+        },
+        {
+          "title": "E1-2: The Empty House"
+        },
+        {
+          "title": "E1-3: The Griffin Builder"
+        },
+        {
+          "title": "E1-4: The Missing MDR"
+        },
+        {
+          "title": "E1-5: The Crooked Man"
+        },
+        {
+          "title": "E1-6: The Seven Tangerine Pips"
+        },
+        {
+          "title": "E1-7: The Second Neural Cloud"
+        },
+        {
+          "title": "E1-8: Lee Enfield's Last Bow I"
+        },
+        {
+          "title": "E1-9: Lee Enfield's Last Bow II"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Summer 2020: Far Side of the Sea",
+      "stages": [
+        {
+          "title": "E1-1: Island Getaway"
+        },
+        {
+          "title": "E1-2: Mission: Wheel of Fortune"
+        },
+        {
+          "title": "E1-3: Into the Dangerous Unknown"
+        },
+        {
+          "title": "E1-4: Last of the Summer Days"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Halloween 2020: Butterfly in a Cocoon",
+      "stages": [
+        {
+          "title": "E1-1: Cold, Endless Night"
+        },
+        {
+          "title": "E1-2: Discourse in the Rain"
+        },
+        {
+          "title": "E1-3: Reflection"
+        },
+        {
+          "title": "E1-4: Reminiscence"
+        },
+        {
+          "title": "E1-5: The Nameless"
+        },
+        {
+          "title": "E1-6: Trackless Tears"
+        },
+        {
+          "title": "E1-7: Evanescent Butterfly"
+        },
+        {
+          "title": "E1-8: Breaking the Cocoon"
+        },
+        {
+          "title": "Memory Fragment 01"
+        },
+        {
+          "title": "Memory Fragment 02"
+        },
+        {
+          "title": "Memory Fragment 03"
+        },
+        {
+          "title": "Memory Fragment 04"
+        },
+        {
+          "title": "Memory Fragment 05"
+        },
+        {
+          "title": "Memory Fragment 06"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Summer 2021: The Waves Wrangler",
+      "stages": [
+        {
+          "title": "E1-1: Tidal Bore"
+        },
+        {
+          "title": "E1-2: Undercurrent"
+        },
+        {
+          "title": "E1-3: Pursuit"
+        },
+        {
+          "title": "E1-4: Zero-Sum"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Christmas 2021: One Coin Short",
+      "stages": [
+        {
+          "title": "E1: \"When Will My Wish Come True?\""
+        },
+        {
+          "title": "E2: A Person's Struggle I"
+        },
+        {
+          "title": "E3: A Person's Struggle II"
+        },
+        {
+          "title": "E4: Heavy Metal & Tender Wood I"
+        },
+        {
+          "title": "E5: Heavy Metal & Tender Wood II"
+        },
+        {
+          "title": "E6: Buried Deception I"
+        },
+        {
+          "title": "E7: Buried Deception II"
+        },
+        {
+          "title": "E8: Cherry Blossom Snowfall I"
+        },
+        {
+          "title": "E9: Cherry Blossom Snowfall I"
+        },
+        {
+          "title": "E10: \"When Fireworks Bloom\""
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "White Day 2022: Love Bakery",
+      "stages": []
+    },
+    {
+      "section": "Minor Events",
+      "title": "Summer 2022: Lycan Sanctuary",
+      "stages": []
+    },
+    {
+      "section": "Minor Events",
+      "title": "Maze Guess",
+      "stages": [
+        {
+          "title": "E1-A: Initial Inference"
+        },
+        {
+          "title": "E1-B: Harmonic Simulation"
+        },
+        {
+          "title": "E1-C: Interpolation Analysis"
+        },
+        {
+          "title": "E2-A: Analytic Inference"
+        },
+        {
+          "title": "E2-B: Real Analysis Simulation"
+        },
+        {
+          "title": "E2-C: Error Analysis"
+        },
+        {
+          "title": "E3-A: Transcendental Inference"
+        },
+        {
+          "title": "E3-B: Complex Manifold Simulation"
+        },
+        {
+          "title": "E3-C: Asymptotic Analysis"
+        },
+        {
+          "title": "E4: Bayesian Decision Theory"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Lost in Thoughts",
+      "stages": [
+        {
+          "title": "E1: Do Not Feed"
+        },
+        {
+          "title": "E2: Double Insurance"
+        },
+        {
+          "title": "E11: Endgame Puzzle"
+        },
+        {
+          "title": "E12: Cognitive Dimension"
+        },
+        {
+          "title": "E13: Perfect Promotion"
+        }
+      ]
+    },
+    {
+      "section": "Minor Events",
+      "title": "Permitted! Reloading...",
+      "stages": [
+        {
+          "title": "E1: Supplementary Testing"
+        },
+        {
+          "title": "E2: Call-to-Arms"
+        },
+        {
+          "title": "E4: Unexpected Development"
+        },
+        {
+          "title": "E6: Survival Margin"
+        },
+        {
+          "title": "E8: Restart"
+        },
+        {
+          "title": "E10: Outsider Insight"
+        },
+        {
+          "title": "E11: New-Found Courage"
+        },
+        {
+          "title": "E13: Never Too Late"
+        },
+        {
+          "title": "E15: On the Horizon"
+        },
+        {
+          "title": "E17: Revelations"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Operation Rabbit Hunt (Arcsys Collab)",
+      "stages": [
+        {
+          "title": "E1-1: Saint Elmo"
+        },
+        {
+          "title": "E1-2: Automaton Annihilation"
+        },
+        {
+          "title": "E1-3: Hunting Game"
+        },
+        {
+          "title": "E1-4: Operation Rabbit Hunt"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Hitoribocchi (Houkai 2 Collab)",
+      "stages": [
+        {
+          "title": "E1-1: The Breakdown Descends"
+        },
+        {
+          "title": "E1-2: Curiosity Killed The Cat"
+        },
+        {
+          "title": "E1-3: Kiana Sorties"
+        },
+        {
+          "title": "E1-4: Entry Forbidden"
+        },
+        {
+          "title": "E2-1: Inauspicious Lightning"
+        },
+        {
+          "title": "E2-2: Swelling Desire"
+        },
+        {
+          "title": "E2-3: Resentment"
+        },
+        {
+          "title": "E2-4: If Only, One Day..."
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Glory Day (DJMAX Respect Collab)",
+      "stages": [
+        {
+          "title": "E1-1: Stalker"
+        },
+        {
+          "title": "E1-2: Heartbeat"
+        },
+        {
+          "title": "E1-3: Waiting For You!"
+        },
+        {
+          "title": "E2-1: Twilight Knight"
+        },
+        {
+          "title": "E2-2: Destiny"
+        },
+        {
+          "title": "E2-3: Moonlight's End"
+        },
+        {
+          "title": "E1-2"
+        },
+        {
+          "title": "E1-3"
+        },
+        {
+          "title": "E2-1"
+        },
+        {
+          "title": "E2-2"
+        },
+        {
+          "title": "E2-3"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Valhalla (VA-11 Hall-A Collab)",
+      "stages": [
+        {
+          "title": "E1-1: Didgeridoo Manual"
+        },
+        {
+          "title": "E1-2: Puberty"
+        },
+        {
+          "title": "E1-3: Pioneer"
+        },
+        {
+          "title": "E1-4: Sonic Boom"
+        },
+        {
+          "title": "E1-5: Chicken Breast"
+        },
+        {
+          "title": "E1-6: Glossophobia"
+        },
+        {
+          "title": "E1-7: Truth or Dare"
+        },
+        {
+          "title": "E1-8: Last Rain in the World"
+        },
+        {
+          "title": "Story 1"
+        },
+        {
+          "title": "Story 2"
+        },
+        {
+          "title": "Story 3"
+        },
+        {
+          "title": "Story 4"
+        },
+        {
+          "title": "Story 5"
+        },
+        {
+          "title": "Story 6"
+        },
+        {
+          "title": "Story 7"
+        },
+        {
+          "title": "Story 8"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Dream Theater (Gunslinger Girls Collab)",
+      "stages": [
+        {
+          "title": "E1-1: No. 9"
+        },
+        {
+          "title": "E1-2: Kaleidoscope"
+        },
+        {
+          "title": "E1-3: New Fork"
+        },
+        {
+          "title": "E1-4: Twilight Stars"
+        },
+        {
+          "title": "E1-5: Full-Length Play"
+        },
+        {
+          "title": "E1-6: Magic of Happiness"
+        },
+        {
+          "title": "E1-7: Agency Shooting Range"
+        },
+        {
+          "title": "E1-8: Honest Pinocchio"
+        },
+        {
+          "title": "E1-9: Promised Dawn"
+        },
+        {
+          "title": "E1-10: Garden of Old"
+        },
+        {
+          "title": "E1-11: Hai Capito"
+        },
+        {
+          "title": "E1-12: That Which Must be Protected"
+        },
+        {
+          "title": "E1-13: Perfect Harmony"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Bounty Feast (The Division Collab)",
+      "stages": [
+        {
+          "title": "0:05 Hudson Refugee Camp"
+        },
+        {
+          "title": "0:07 New York Public Library"
+        },
+        {
+          "title": "0:23 Grand Central Terminal"
+        },
+        {
+          "title": "0:50 Dark Zone"
+        },
+        {
+          "title": "1:10 Extraction Point"
+        },
+        {
+          "title": "Am RFB’s Team"
+        },
+        {
+          "title": "M870’s Team"
+        },
+        {
+          "title": "Vector’s Team"
+        },
+        {
+          "title": "Springfield’s Team"
+        },
+        {
+          "title": "AK47’s Team"
+        },
+        {
+          "title": "Team 404"
+        },
+        {
+          "title": "Echoes"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "My Devil's Frontline (Dropkick on My Devil Collab)",
+      "stages": [
+        {
+          "title": "E0-1 Crossing of World Lines"
+        },
+        {
+          "title": "E1-1 Inter-Dimensional Commission"
+        },
+        {
+          "title": "E1-2 The Client's True Identity"
+        },
+        {
+          "title": "E2-1 The Client's True Identity"
+        },
+        {
+          "title": "E2-2 Frozen"
+        },
+        {
+          "title": "E3-1 Girl Beyond Reach"
+        },
+        {
+          "title": "E4-1 Goodbye, Tail"
+        },
+        {
+          "title": "E5-1 Breakneck Pursuit"
+        },
+        {
+          "title": "E5-2 Missing Heroine"
+        },
+        {
+          "title": "E6-1 Jinbocho Without Her"
+        },
+        {
+          "title": "E6-2 Griffin Without Her"
+        },
+        {
+          "title": "E7-1 Devil's Paradise"
+        },
+        {
+          "title": "E7-2 Destruction, Regeneration"
+        },
+        {
+          "title": "E7-3 Debt and Oath"
+        },
+        {
+          "title": "E7-4 The Journey Home"
+        },
+        {
+          "title": "E8-1 Devil in Destitute"
+        },
+        {
+          "title": "Plastic Memory"
+        },
+        {
+          "title": "Life in a Bowl"
+        },
+        {
+          "title": "Girl in the Back Alley"
+        },
+        {
+          "title": "The One Who Knocks"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "The Glistening Bloom (Zombie Land Saga collab)",
+      "stages": []
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Through the Looking-Glass (Ghost in the Shell collab)",
+      "stages": [
+        {
+          "title": "E1 Stranger's Boon"
+        },
+        {
+          "title": "E3 Beneath the Chestnut Tree"
+        },
+        {
+          "title": "E4 Morning, New World"
+        },
+        {
+          "title": "E5 Potato's Legend"
+        },
+        {
+          "title": "E6 Internet Rehab"
+        },
+        {
+          "title": "E7 Earl Grey Grin"
+        },
+        {
+          "title": "E8 Grape Juice"
+        },
+        {
+          "title": "E9 Sakura Flowers and You"
+        },
+        {
+          "title": "E10 Major's Request"
+        },
+        {
+          "title": "E12 A Free Prisoner"
+        },
+        {
+          "title": "E13 To Retrace Steps"
+        },
+        {
+          "title": "E14 Botched Ascension"
+        },
+        {
+          "title": "E15 Best Wishes"
+        },
+        {
+          "title": "E17 Hidden Behind the Photograph"
+        },
+        {
+          "title": "E18 Furor"
+        },
+        {
+          "title": "E20 Ghost in the Channel"
+        },
+        {
+          "title": "E21 Crying Pudding"
+        },
+        {
+          "title": "E23 A War Just For Me"
+        },
+        {
+          "title": "E24 Sundown at World's End"
+        }
+      ]
+    },
+    {
+      "section": "Collaboration Events",
+      "title": "Lorenz Butterfly (Arena Breakout collab)",
+      "stages": [
+        {
+          "title": "1: A Lightless Zone"
+        },
+        {
+          "title": "2: Playing Blind"
+        },
+        {
+          "title": "4: Discordant Notes"
+        },
+        {
+          "title": "5: The Wandering Wind"
+        },
+        {
+          "title": "6: Concerto"
+        },
+        {
+          "title": "8: The Fourth Stone"
+        },
+        {
+          "title": "9: A Familiar Blade"
+        },
+        {
+          "title": "10: Camel Bells in the Moonlight"
+        },
+        {
+          "title": "12: The Second Variation"
+        },
+        {
+          "title": "13: The Last Path"
+        },
+        {
+          "title": "15: The Spider’s Thread"
+        },
+        {
+          "title": "16: The Fluttering Wings of a Butterfly"
+        },
+        {
+          "title": "E-1: The Unexpected Suspect"
+        },
+        {
+          "title": "E-2: The Unfading White Garb"
+        },
+        {
+          "title": "E-3: Glistening Ashes"
+        },
+        {
+          "title": "D-1: The Gold-Hungry Rat"
+        },
+        {
+          "title": "D-2: The Executor"
+        },
+        {
+          "title": "D-3: Who Is the Fish?"
+        },
+        {
+          "title": "H-1: Private Execution"
+        },
+        {
+          "title": "H-2: Beyond Offense:"
+        },
+        {
+          "title": "H-3: Bullet Holes Never Heal"
+        }
+      ]
+    }
+  ]
+}

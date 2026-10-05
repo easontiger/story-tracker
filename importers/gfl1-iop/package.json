@@ -1,0 +1,13 @@
+{
+  "name": "story-tracker-importer-gfl1-iop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  },
+  "scripts": {
+    "test": "node --test parser.test.mjs",
+    "import": "node index.mjs"
+  }
+}

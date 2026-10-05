@@ -1,0 +1,9 @@
+{
+  "name": "story-tracker-ba-data",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "opencc-js": "^1.0.5",
+    "xxhashjs": "^0.2.2"
+  }
+}

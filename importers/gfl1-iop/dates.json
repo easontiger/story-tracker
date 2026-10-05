@@ -1,0 +1,560 @@
+{
+  "checkedAt": "2026-10-04",
+  "server": "CN",
+  "projects": [
+    {
+      "title": "Episode 5.5 - Operation Cube",
+      "releasedAt": "2016-08-11",
+      "sourceUrl": "https://iopwiki.com/wiki/Operation_Cube",
+      "server": "CN",
+      "startUtc": "2016-08-11T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:5.5"
+    },
+    {
+      "title": "Episode 7.5 - Arctic Warfare",
+      "releasedAt": "2017-01-25",
+      "sourceUrl": "https://iopwiki.com/wiki/Arctic_Warfare",
+      "server": "CN",
+      "startUtc": "2017-01-25T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:7.5"
+    },
+    {
+      "title": "Episode 7.75 - Operation Cube+",
+      "releasedAt": "2017-03-30",
+      "sourceUrl": "https://iopwiki.com/wiki/Operation_Cube_Plus",
+      "server": "CN",
+      "startUtc": "2017-03-30T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:7.75"
+    },
+    {
+      "title": "Episode 8.5 - Deep Dive",
+      "releasedAt": "2017-07-27",
+      "sourceUrl": "https://iopwiki.com/wiki/Deep_Dive",
+      "server": "CN",
+      "startUtc": "2017-07-27T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:8.5"
+    },
+    {
+      "title": "Episode 10.5 - Singularity",
+      "releasedAt": "2018-02-08",
+      "sourceUrl": "https://iopwiki.com/wiki/Singularity",
+      "server": "CN",
+      "startUtc": "2018-02-08T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:10.5"
+    },
+    {
+      "title": "Episode 10.75 - Continuum Turbulence",
+      "releasedAt": "2018-08-16",
+      "sourceUrl": "https://iopwiki.com/wiki/Continuum_Turbulence",
+      "server": "CN",
+      "startUtc": "2018-08-16T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:10.75"
+    },
+    {
+      "title": "Episode 11.5 - Isomer",
+      "releasedAt": "2019-01-24",
+      "sourceUrl": "https://iopwiki.com/wiki/Isomer",
+      "server": "CN",
+      "startUtc": "2019-01-24T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:11.5"
+    },
+    {
+      "title": "Episode 11.75 - Shattered Connexion",
+      "releasedAt": "2019-08-08",
+      "sourceUrl": "https://iopwiki.com/wiki/Shattered_Connexion",
+      "server": "CN",
+      "startUtc": "2019-08-08T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:11.75"
+    },
+    {
+      "title": "Episode 12.5 - Polarized Light",
+      "releasedAt": "2020-01-16",
+      "sourceUrl": "https://iopwiki.com/wiki/Polarized_Light",
+      "server": "CN",
+      "startUtc": "2020-01-16T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:12.5"
+    },
+    {
+      "title": "Episode 13.25 - Dual Randomness",
+      "releasedAt": "2020-08-20",
+      "sourceUrl": "https://iopwiki.com/wiki/Dual_Randomness",
+      "server": "CN",
+      "startUtc": "2020-08-20T11:00:00Z",
+      "sourceKey": "iop:story-events:episode:13.25"
+    },
+    {
+      "title": "Episode 13.5 - Mirror Stage",
+      "releasedAt": "2021-02-04",
+      "sourceUrl": "https://iopwiki.com/wiki/Mirror_Stage",
+      "server": "CN",
+      "startUtc": "2021-02-04T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:13.5"
+    },
+    {
+      "title": "Episode 13.75 - Poincare Recurrence",
+      "releasedAt": "2021-08-26",
+      "sourceUrl": "https://iopwiki.com/wiki/Poincare_Recurrence",
+      "server": "CN",
+      "startUtc": "2021-08-26T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:13.75"
+    },
+    {
+      "title": "Episode 13.8 - Fixed Point",
+      "releasedAt": "2022-01-20",
+      "sourceUrl": "https://iopwiki.com/wiki/Fixed_Point",
+      "server": "CN",
+      "startUtc": "2022-01-20T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:13.8"
+    },
+    {
+      "title": "Episode 13.9 - Longitudinal Strain",
+      "releasedAt": "2022-09-08",
+      "sourceUrl": "https://iopwiki.com/wiki/Longitudinal_Strain",
+      "server": "CN",
+      "startUtc": "2022-09-08T16:00:00Z",
+      "sourceKey": "iop:story-events:episode:13.9"
+    },
+    {
+      "title": "Episode 13.95 - Eclipses & Saros",
+      "releasedAt": "2022-12-08",
+      "sourceUrl": "https://iopwiki.com/wiki/Eclipses_&_Saros",
+      "server": "CN",
+      "startUtc": "2022-12-08T03:00:00Z",
+      "sourceKey": "iop:story-events:episode:13.95"
+    },
+    {
+      "title": "Episode 14 - Slow Shock",
+      "releasedAt": "2023-04-27",
+      "sourceUrl": "https://iopwiki.com/wiki/Slow_Shock",
+      "server": "CN",
+      "startUtc": "2023-04-27T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:14"
+    },
+    {
+      "title": "Episode 15.1 - The Summer Garden of Forking Paths",
+      "releasedAt": "2024-04-18",
+      "sourceUrl": "https://iopwiki.com/wiki/The_Summer_Garden_of_Forking_Paths",
+      "server": "CN",
+      "startUtc": "2024-04-18T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.1"
+    },
+    {
+      "title": "Episode 15.2 - Cartesian Theater",
+      "releasedAt": "2024-06-13",
+      "sourceUrl": "https://iopwiki.com/wiki/Cartesian_Theater",
+      "server": "CN",
+      "startUtc": "2024-06-13T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.2"
+    },
+    {
+      "title": "Episode 15.3 - Zero Charge",
+      "releasedAt": "2024-07-18",
+      "sourceUrl": "https://iopwiki.com/wiki/Zero_Charge",
+      "server": "CN",
+      "startUtc": "2024-07-18T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.3"
+    },
+    {
+      "title": "Episode 15.4 - Angular Gyrus",
+      "releasedAt": "2024-08-15",
+      "sourceUrl": "https://iopwiki.com/wiki/Angular_Gyrus",
+      "server": "CN",
+      "startUtc": "2024-08-15T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.4"
+    },
+    {
+      "title": "Episode 15.5 - Isolation Forest",
+      "releasedAt": "2024-10-17",
+      "sourceUrl": "https://iopwiki.com/wiki/Isolation_Forest",
+      "server": "CN",
+      "startUtc": "2024-10-17T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.5"
+    },
+    {
+      "title": "Episode 15.6 - Convolutional Kernel",
+      "releasedAt": "2024-12-12",
+      "sourceUrl": "https://iopwiki.com/wiki/Convolutional_Kernel",
+      "server": "CN",
+      "startUtc": "2024-12-12T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.6"
+    },
+    {
+      "title": "Episode 15.7 - Roche Limit",
+      "releasedAt": "2025-07-10",
+      "sourceUrl": "https://iopwiki.com/wiki/Roche_Limit",
+      "server": "CN",
+      "startUtc": "2025-07-10T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.7"
+    },
+    {
+      "title": "Episode 15.8 - Virtual Pair",
+      "releasedAt": "2025-07-31",
+      "sourceUrl": "https://iopwiki.com/wiki/Virtual_Pair",
+      "server": "CN",
+      "startUtc": "2025-07-31T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.8"
+    },
+    {
+      "title": "Episode 15.9 - Quantum Fluctuation",
+      "releasedAt": "2025-10-16",
+      "sourceUrl": "https://iopwiki.com/wiki/Quantum_Fluctuation",
+      "server": "CN",
+      "startUtc": "2025-10-16T14:00:00Z",
+      "sourceKey": "iop:story-events:episode:15.9"
+    },
+    {
+      "title": "Halloween 2019: Freaky Pandemic",
+      "releasedAt": "2019-10-17",
+      "sourceUrl": "https://iopwiki.com/wiki/Freaky_Pandemic",
+      "server": "CN",
+      "startUtc": "2019-10-17T09:00:00Z",
+      "sourceKey": "iop:minor-events:cd00703701328856186688c5"
+    },
+    {
+      "title": "Christmas 2019: A Snowy Night Capriccio",
+      "releasedAt": "2019-12-05",
+      "sourceUrl": "https://iopwiki.com/wiki/A_Snowy_Night_Capriccio",
+      "server": "CN",
+      "startUtc": "2019-12-05T10:00:00Z",
+      "sourceKey": "iop:minor-events:aee077d3f2be36a6e14cbd2f"
+    },
+    {
+      "title": "White Day 2020: The Photo Studio Mystery",
+      "releasedAt": "2020-03-12",
+      "sourceUrl": "https://iopwiki.com/wiki/The_Photo_Studio_Mystery",
+      "server": "CN",
+      "startUtc": "2020-03-12T10:00:00Z",
+      "sourceKey": "iop:minor-events:f2a6f00abd74a76556acf356"
+    },
+    {
+      "title": "Summer 2020: Far Side of the Sea",
+      "releasedAt": "2020-06-18",
+      "sourceUrl": "https://iopwiki.com/wiki/Far_Side_of_the_Sea",
+      "server": "CN",
+      "startUtc": "2020-06-18T09:00:00Z",
+      "sourceKey": "iop:minor-events:8d63c574f5d596ea27d6e673"
+    },
+    {
+      "title": "Halloween 2020: Butterfly in a Cocoon",
+      "releasedAt": "2020-10-29",
+      "sourceUrl": "https://iopwiki.com/wiki/Butterfly_in_a_Cocoon",
+      "server": "CN",
+      "startUtc": "2020-10-29T09:00:00Z",
+      "sourceKey": "iop:minor-events:8f3928a476baa0cb6539f446"
+    },
+    {
+      "title": "Summer 2021: The Waves Wrangler",
+      "releasedAt": "2021-07-01",
+      "sourceUrl": "https://iopwiki.com/wiki/The_Waves_Wrangler",
+      "server": "CN",
+      "startUtc": "2021-07-01T11:00:00Z",
+      "sourceKey": "iop:minor-events:077eb2badb8f899100fc91b2"
+    },
+    {
+      "title": "Christmas 2021: One Coin Short",
+      "releasedAt": "2021-12-16",
+      "sourceUrl": "https://iopwiki.com/wiki/One_Coin_Short",
+      "server": "CN",
+      "startUtc": "2021-12-15T23:00:00Z",
+      "note": "UTC 23:00换算北京时间为次日。",
+      "sourceKey": "iop:minor-events:49df2c4e0729c934d4cddf94"
+    },
+    {
+      "title": "White Day 2022: Love Bakery",
+      "releasedAt": "2022-03-10",
+      "sourceUrl": "https://iopwiki.com/wiki/Love_Bakery",
+      "server": "CN",
+      "startUtc": "2022-03-10T03:00:00Z",
+      "sourceKey": "iop:minor-events:dcae741b9ede66229c469a57"
+    },
+    {
+      "title": "Summer 2022: Lycan Sanctuary",
+      "releasedAt": "2022-07-21",
+      "sourceUrl": "https://m.ali213.net/news/gl2207/879065.html",
+      "server": "CN",
+      "startUtc": "2022-07-21T18:00:00Z",
+      "note": "国服公告明确7月21日维护后；IOP小时标注有误，保留公告日期。",
+      "sourceKey": "iop:minor-events:260137a75c214525896bb9e9"
+    },
+    {
+      "title": "Maze Guess",
+      "releasedAt": "2023-01-17",
+      "sourceUrl": "https://iopwiki.com/wiki/Maze_Guess",
+      "server": "CN",
+      "startUtc": "2023-01-17T03:00:00Z",
+      "sourceKey": "iop:minor-events:aaa183d73f3ab5729d737490"
+    },
+    {
+      "title": "Lost in Thoughts",
+      "releasedAt": "2023-07-20",
+      "sourceUrl": "https://iopwiki.com/wiki/Lost_in_Thoughts",
+      "server": "CN",
+      "startUtc": "2023-07-20T14:00:00Z",
+      "sourceKey": "iop:minor-events:290613bbd4ebdee739478784"
+    },
+    {
+      "title": "Permitted! Reloading...",
+      "releasedAt": "2023-09-28",
+      "sourceUrl": "https://iopwiki.com/wiki/Permitted!_Reloading...",
+      "server": "CN",
+      "startUtc": "2023-09-28T14:00:00Z",
+      "sourceKey": "iop:minor-events:66f5513c3f08d745f51f255a"
+    },
+    {
+      "title": "Operation Rabbit Hunt (Arcsys Collab)",
+      "releasedAt": "2017-06-22",
+      "sourceUrl": "https://iopwiki.com/wiki/Operation_Rabbit_Hunt",
+      "server": "CN",
+      "startUtc": "2017-06-22T07:00:00Z",
+      "sourceKey": "iop:collaboration:df829004c8d5782dde5c6b22"
+    },
+    {
+      "title": "Hitoribocchi (Houkai 2 Collab)",
+      "releasedAt": "2017-11-16",
+      "sourceUrl": "https://iopwiki.com/wiki/Hitoribocchi",
+      "server": "CN",
+      "startUtc": "2017-11-16T08:00:00Z",
+      "sourceKey": "iop:collaboration:39fbb200bd5af74c7fa3b38f"
+    },
+    {
+      "title": "Glory Day (DJMAX Respect Collab)",
+      "releasedAt": "2018-04-26",
+      "sourceUrl": "https://iopwiki.com/wiki/Glory_Day",
+      "server": "CN",
+      "startUtc": "2018-04-26T09:00:00Z",
+      "sourceKey": "iop:collaboration:3c5c6da544b58f36935d7271"
+    },
+    {
+      "title": "Valhalla (VA-11 Hall-A Collab)",
+      "releasedAt": "2019-06-13",
+      "sourceUrl": "https://iopwiki.com/wiki/Valhalla",
+      "server": "CN",
+      "startUtc": "2019-06-13T11:00:00Z",
+      "sourceKey": "iop:collaboration:0f9382c042b76f1a227f4b0d"
+    },
+    {
+      "title": "Dream Theater (Gunslinger Girls Collab)",
+      "releasedAt": "2020-07-23",
+      "sourceUrl": "https://iopwiki.com/wiki/Dream_Theatre",
+      "server": "CN",
+      "startUtc": "2020-07-23T10:00:00Z",
+      "sourceKey": "iop:collaboration:d125979310ebaa4fe9811a06"
+    },
+    {
+      "title": "Bounty Feast (The Division Collab)",
+      "releasedAt": "2020-11-26",
+      "sourceUrl": "https://iopwiki.com/wiki/Bounty_Feast",
+      "server": "CN",
+      "startUtc": "2020-11-26T09:00:00Z",
+      "sourceKey": "iop:collaboration:b2744d9f2143791967b039e2"
+    },
+    {
+      "title": "My Devil's Frontline (Dropkick on My Devil Collab)",
+      "releasedAt": "2021-07-22",
+      "sourceUrl": "https://iopwiki.com/wiki/My_Devil's_Frontline",
+      "server": "CN",
+      "startUtc": "2021-07-22T09:00:00Z",
+      "sourceKey": "iop:collaboration:db95fcfa092716b3aeb76810"
+    },
+    {
+      "title": "The Glistening Bloom (Zombie Land Saga collab)",
+      "releasedAt": "2023-02-17",
+      "sourceUrl": "https://www.taptap.cn/moment/372810302271522566",
+      "server": "CN",
+      "startUtc": "2023-02-10T17:00:00Z",
+      "note": "公告正文明确2月17日维护后；纠正IOP表格2月10日。",
+      "sourceKey": "iop:collaboration:8a3284fdfba449afb3c63dca"
+    },
+    {
+      "title": "Through the Looking-Glass (Ghost in the Shell collab)",
+      "releasedAt": "2024-02-29",
+      "sourceUrl": "https://iopwiki.com/wiki/Through_the_Looking-Glass",
+      "server": "CN",
+      "startUtc": "2024-02-29T14:00:00Z",
+      "sourceKey": "iop:collaboration:451032c5ac65a0ebb1d2e018"
+    },
+    {
+      "title": "Lorenz Butterfly (Arena Breakout collab)",
+      "releasedAt": "2024-11-07",
+      "sourceUrl": "https://iopwiki.com/wiki/Lorenz_Butterfly",
+      "server": "CN",
+      "startUtc": "2024-11-06T17:00:00Z",
+      "note": "UTC 17:00换算北京时间为次日。",
+      "sourceKey": "iop:collaboration:4c1d73e5f779033b4a28932a"
+    },
+    {
+      "title": "Prologue",
+      "releasedAt": "2016-05-20",
+      "server": "CN",
+      "sourceUrl": "https://wap.gamersky.com/news/Content-754789.html",
+      "note": "开服序章与初始0—5章采用国服安卓不删档开服日期；不追溯删档测试。",
+      "sourceKey": "iop:main:eb7f661e0d35afaf03a56278"
+    },
+    {
+      "title": "Episode 00 - Seed",
+      "releasedAt": "2016-05-20",
+      "server": "CN",
+      "sourceUrl": "https://wap.gamersky.com/news/Content-754789.html",
+      "note": "开服序章与初始0—5章采用国服安卓不删档开服日期；不追溯删档测试。",
+      "sourceKey": "iop:main:episode:0"
+    },
+    {
+      "title": "Episode 01 - Awakening",
+      "releasedAt": "2016-05-20",
+      "server": "CN",
+      "sourceUrl": "https://wap.gamersky.com/news/Content-754789.html",
+      "note": "开服序章与初始0—5章采用国服安卓不删档开服日期；不追溯删档测试。",
+      "sourceKey": "iop:main:episode:1"
+    },
+    {
+      "title": "Episode 02 - Echo",
+      "releasedAt": "2016-05-20",
+      "server": "CN",
+      "sourceUrl": "https://wap.gamersky.com/news/Content-754789.html",
+      "note": "开服序章与初始0—5章采用国服安卓不删档开服日期；不追溯删档测试。",
+      "sourceKey": "iop:main:episode:2"
+    },
+    {
+      "title": "Episode 03 - Silence",
+      "releasedAt": "2016-05-20",
+      "server": "CN",
+      "sourceUrl": "https://wap.gamersky.com/news/Content-754789.html",
+      "note": "开服序章与初始0—5章采用国服安卓不删档开服日期；不追溯删档测试。",
+      "sourceKey": "iop:main:episode:3"
+    },
+    {
+      "title": "Episode 04 - Message",
+      "releasedAt": "2016-05-20",
+      "server": "CN",
+      "sourceUrl": "https://wap.gamersky.com/news/Content-754789.html",
+      "note": "开服序章与初始0—5章采用国服安卓不删档开服日期；不追溯删档测试。",
+      "sourceKey": "iop:main:episode:4"
+    },
+    {
+      "title": "Episode 05 - Kindling",
+      "releasedAt": "2016-05-20",
+      "server": "CN",
+      "sourceUrl": "https://wap.gamersky.com/news/Content-754789.html",
+      "note": "开服序章与初始0—5章采用国服安卓不删档开服日期；不追溯删档测试。",
+      "sourceKey": "iop:main:episode:5"
+    },
+    {
+      "title": "Episode 06 - Comet",
+      "releasedAt": "2016-10-28",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:6"
+    },
+    {
+      "title": "Episode 07 - Partner",
+      "releasedAt": "2017-01-13",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:7"
+    },
+    {
+      "title": "Episode 08 - Spark",
+      "releasedAt": "2017-05-04",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:8"
+    },
+    {
+      "title": "Episode 09 - Lost",
+      "releasedAt": "2017-09-20",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:9"
+    },
+    {
+      "title": "Episode 10 - Purgatory",
+      "releasedAt": "2017-12-21",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:10"
+    },
+    {
+      "title": "Episode 11 - The Hunt",
+      "releasedAt": "2018-10-25",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:11"
+    },
+    {
+      "title": "Episode 12 - Gasp",
+      "releasedAt": "2019-12-19",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:12"
+    },
+    {
+      "title": "Episode 13 - The Oblivione",
+      "releasedAt": "2020-05-07",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役",
+      "sourceKey": "iop:main:episode:13"
+    }
+  ],
+  "night": [
+    {
+      "episode": 1,
+      "releasedAt": "2016-09-22",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 2,
+      "releasedAt": "2016-09-22",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 3,
+      "releasedAt": "2016-09-22",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 4,
+      "releasedAt": "2016-12-08",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 5,
+      "releasedAt": "2017-02-23",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 6,
+      "releasedAt": "2017-07-06",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 7,
+      "releasedAt": "2018-04-04",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 8,
+      "releasedAt": "2018-05-24",
+      "server": "CN",
+      "sourceUrl": "https://moegirl.icu/少女前线/第七战役"
+    },
+    {
+      "episode": 9,
+      "releasedAt": "2019-03-28",
+      "server": "CN",
+      "sourceUrl": "https://shouyou.3dmgame.com/gl/119837.html"
+    },
+    {
+      "episode": 10,
+      "releasedAt": "2019-11-07",
+      "server": "CN",
+      "sourceUrl": "https://gf-ogas.wiki/wiki/少女前线/历届版本更新及登录图"
+    }
+  ]
+}

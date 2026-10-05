@@ -1,0 +1,251 @@
+{
+  "source": "https://iopwiki.com/wiki/GFL2_Events",
+  "checkedAt": "2026-10-03",
+  "events": [
+    {
+      "title": "异乡乐徽",
+      "startUtc": "2023-12-25T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "方糖特调沙龙",
+      "startUtc": "2024-01-30T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "交织突进",
+      "startUtc": "2024-02-27T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "循迹追演",
+      "startUtc": "2024-03-26T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "狂想四重奏",
+      "startUtc": "2024-04-30T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "玻璃岛的驻行者",
+      "startUtc": "2024-06-05T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "驻足之地",
+      "startUtc": "2024-07-16T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "拂晓的回响",
+      "startUtc": "2024-08-06T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "远日点·上篇",
+      "startUtc": "2024-08-27T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "远日点·下篇",
+      "startUtc": "2024-09-19T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "逃离赛博格",
+      "startUtc": "2024-10-09T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "心智洄游·纪念日礼赞",
+      "startUtc": "2024-10-29T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "心智洄游·共诉隐匿时",
+      "startUtc": "2024-11-19T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "密米尔的返演·上篇",
+      "startUtc": "2024-12-10T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "密米尔的返演·下篇",
+      "startUtc": "2024-12-31T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "烟火迎春归",
+      "startUtc": "2025-01-21T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "心智洄游·素银匿信",
+      "startUtc": "2025-02-11T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "匿影而生",
+      "startUtc": "2025-03-04T10:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "错位锚定·上篇",
+      "startUtc": "2025-03-25T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "错位锚定·下篇",
+      "startUtc": "2025-04-15T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "镜茧与囚蝶",
+      "startUtc": "2025-05-06T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "心跳游乐园",
+      "startUtc": "2025-05-27T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "沉没夜潮",
+      "startUtc": "2025-06-17T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "火花之罪·上篇",
+      "startUtc": "2025-07-08T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "火花之罪·中篇",
+      "startUtc": "2025-07-14T22:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "火花之罪·下篇",
+      "startUtc": "2025-07-29T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "虚境新始",
+      "startUtc": "2025-09-09T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "歧路双轨·上篇",
+      "startUtc": "2025-09-30T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "歧路双轨·下篇",
+      "startUtc": "2025-10-21T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "前进吧，王牌配送员！",
+      "startUtc": "2025-11-11T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "铸碑者的黎明·上篇",
+      "startUtc": "2025-12-02T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "铸碑者的黎明·下篇",
+      "startUtc": "2025-12-23T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "信号波重度依赖",
+      "startUtc": "2026-01-13T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "瑞骋迎春至",
+      "startUtc": "2026-02-03T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "月下安魂曲",
+      "startUtc": "2026-02-24T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "镜像冗余·上篇",
+      "startUtc": "2026-03-17T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "镜像冗余·下篇",
+      "startUtc": "2026-04-07T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "琥珀月光",
+      "startUtc": "2026-04-28T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "忒弥斯棋局",
+      "startUtc": "2026-05-19T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "梦中的永无岛",
+      "startUtc": "2026-06-09T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "伊利昂之围·上篇",
+      "startUtc": "2026-06-30T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "伊利昂之围·中篇",
+      "startUtc": "2026-07-21T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "伊利昂之围·下篇",
+      "startUtc": "2026-07-30T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "寂静的匹丝缇",
+      "startUtc": "2026-08-11T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "金翅雀与橄榄枝",
+      "startUtc": "2026-09-01T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "静默突触·初篇",
+      "startUtc": "2026-09-22T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "静默突触·承篇",
+      "startUtc": "2026-09-28T21:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "静默突触·转篇",
+      "startUtc": "2026-10-13T04:00:00Z",
+      "server": "CN"
+    },
+    {
+      "title": "静默突触·终篇",
+      "startUtc": "2026-10-19T21:00:00Z",
+      "server": "CN"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "story-tracker-importer-prts",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test parser.test.mjs", "import": "node index.mjs" },
+  "dependencies": { "cheerio": "^1.2.0" }
+}

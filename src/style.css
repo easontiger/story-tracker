@@ -1,0 +1,65 @@
+:root { font-family: "Segoe UI", "Microsoft YaHei", sans-serif; color: #202838; background: #f6f7f9; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+main { max-width: 960px; margin: 0 auto; padding: 24px 32px 48px; }
+header, .toolbar, .actions { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+header nav { display: flex; gap: 10px; }
+header { padding-bottom: 20px; border-bottom: 1px solid #dce0e7; }
+button { font: inherit; padding: 8px 14px; border: 1px solid #c9cfda; border-radius: 5px; background: white; color: inherit; cursor: pointer; }
+button:hover:enabled { background: #edf1f7; }
+button:disabled { opacity: .5; cursor: default; }
+button:focus-visible, input:focus-visible, summary:focus-visible { outline: 2px solid #315ecb; outline-offset: 3px; }
+.brand { font-size: 20px; font-weight: 650; padding: 0; border: 0; background: transparent; }
+h1 { font-size: 25px; margin: 14px 0 24px; }
+h2 { font-size: 18px; display: flex; align-items: center; gap: 16px; }
+h3 { font-size: 16px; }
+.status { min-height: 30px; padding-top: 8px; font-size: 13px; color: #526276; }
+.error { margin-top: 18px; background: #fceeee; border: 1px solid #e3b6b6; padding: 14px; color: #842a2a; overflow-wrap: anywhere; }
+.games { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.game { padding: 22px; text-align: left; display: grid; gap: 14px; }
+.game strong { font-size: 18px; }
+.game span, .count, time { color: #687386; font-size: 13px; font-weight: normal; }
+.empty { padding: 32px; border: 1px solid #dce0e7; background: white; }
+.story-line { margin-bottom: 28px; }
+.tree, .tree ul { list-style: none; margin: 0; padding-left: 20px; }
+.tree { padding: 0; }
+.branch, .leaf { margin: 8px 0; }
+summary { cursor: pointer; padding: 8px 0; }
+summary .count { margin-left: 16px; }
+.batch { display: flex; gap: 8px; padding: 4px 0 6px 20px; }
+.batch button { font-size: 12px; padding: 4px 9px; }
+.leaf { display: flex; justify-content: space-between; padding: 7px 0; gap: 12px; }
+.leaf label { cursor: pointer; display: flex; align-items: center; gap: 10px; }
+input[type="checkbox"] { width: 17px; height: 17px; accent-color: #315ecb; }
+.toolbar, .diff { background: white; padding: 18px; border: 1px solid #dce0e7; }
+.diff { list-style: none; }
+.diff li { padding: 12px 0; display: flex; flex-wrap: wrap; gap: 12px; border-bottom: 1px solid #edf0f4; }
+.diff li:last-child { border-bottom: 0; }
+small { display: block; width: 100%; color: #687386; overflow-wrap: anywhere; }
+.actions { justify-content: flex-start; margin-top: 20px; }
+.notice { background: #fff7e7; border: 1px solid #e3cda7; padding: 14px 20px; margin: 24px 0; }
+.notice li { margin: 12px 0; }
+.notice time { margin-left: 12px; }
+
+select { font: inherit; padding: 8px; border: 1px solid #c9cfda; border-radius: 5px; background: white; color: inherit; max-width: 240px; }
+.toolbar { flex-wrap: wrap; }
+.release { margin-left: 14px; }
+
+.story-controls { position: sticky; top: 0; z-index: 10; flex-wrap: wrap; padding: 12px 0; background: #f6f7f9; border-bottom: 1px solid #dce0e7; }
+
+.project-category { display: block; color: #64748b; margin: 10px 0 4px; }
+
+.timeline-leaf { flex-wrap: wrap; }
+.timeline-leaf .project-category { flex-basis: 100%; }
+
+.append-form { margin-top: 20px; }
+.append-form fieldset { display: grid; gap: 14px; padding: 18px; border: 1px solid #dce0e7; background: white; }
+.append-form label { display: grid; gap: 6px; }
+.append-form input, .append-form textarea { font: inherit; padding: 8px; border: 1px solid #c9cfda; border-radius: 5px; max-width: 100%; }
+.append-form select { max-width: 100%; }
+.append-form textarea { resize: vertical; }
+.append-form button { justify-self: start; }
+
+.story-search { display: flex; align-items: center; gap: 8px; flex: 1 1 100%; }
+.story-search input { font: inherit; padding: 8px; border: 1px solid #c9cfda; border-radius: 5px; flex: 1; min-width: 0; background: white; }
+.back-to-top { position: fixed; right: 20px; bottom: 20px; z-index: 20; box-shadow: 0 2px 8px #0002; }

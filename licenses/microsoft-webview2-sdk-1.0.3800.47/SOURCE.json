@@ -1,0 +1,6 @@
+{
+  "sdkVersion": "1.0.3800.47",
+  "bindingsVersion": "0.39.1",
+  "source": "https://api.nuget.org/v3-flatcontainer/microsoft.web.webview2/1.0.3800.47/microsoft.web.webview2.1.0.3800.47.nupkg",
+  "staticLoaderSha256": "89c6b872783b8f6c3cedbff618adb42082d455c615453ae10cfc753f1e8f25d8"
+}

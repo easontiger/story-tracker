@@ -1,0 +1,35 @@
+# Dependencies and generated output
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+.tools/
+
+# Local data and exports
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+/exports/
+/export/
+/importers/*/config.json
+*.log
+
+# Local environment
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+/1.md
+
+# Packaged releases
+/dist-release/
+
+# Local development instructions
+/AGENTS.md

@@ -1,0 +1,11 @@
+{
+  "apiVersion": 1,
+  "id": "gfl2-bilibili",
+  "name": "少女前线2 · B站剧情 / IOP日期",
+  "gameId": "girls-frontline-2",
+  "runtime": "node",
+  "entry": "index.mjs",
+  "progressStoryLines": [
+    "main"
+  ]
+}
