@@ -104,3 +104,5 @@
     npm run desktop:dev
 
 前端与导入模块测试使用 `npm test`，数据库测试使用 `npm run test:db`。构建程序使用 `npm run desktop:build`。便携打包需先生成四份导出目录及 BA 校对报告；现成便携包从 Release 下载。
+
+本次更新还统一了蔚蓝档案的 Vol.6、Vol.0 卷名，并加宽顶部固定栏。已有数据可通过对应游戏的本地数据模块生成更新预览并确认更新，观看记录保留。

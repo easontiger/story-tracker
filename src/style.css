@@ -45,7 +45,7 @@ select { font: inherit; padding: 8px; border: 1px solid #c9cfda; border-radius: 
 .toolbar { flex-wrap: wrap; }
 .release { margin-left: 14px; }
 
-.story-controls { position: sticky; top: 0; z-index: 10; flex-wrap: wrap; padding: 12px 0; background: #f6f7f9; border-bottom: 1px solid #dce0e7; }
+.story-controls { position: sticky; top: 0; z-index: 10; flex-wrap: wrap; margin-inline: -32px; padding: 12px 32px; background: #f6f7f9; border-bottom: 1px solid #dce0e7; }
 
 .project-category { display: block; color: #64748b; margin: 10px 0 4px; }
 

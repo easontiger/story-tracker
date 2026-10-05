@@ -194,6 +194,7 @@ export function build(data, cn={names:[],episodes:[]}) {
     const volumeKey='ba:'+m.ModeType+':'+m.SubType+':volume:'+m.VolumeId;
     const chapterKey=volumeKey+':chapter:'+m.ChapterId;
     const vn=dirName(modeCode(m,'Volume'),'卷 '+m.VolumeId);
+    if(m.ModeType==='Main')vn.title=vn.title.replace(/^(\d+)\.\s*/, 'Vol.$1 ');
     const cn=dirName(modeCode(m,'Chapter'),'第'+m.ChapterId+'章');
     const seriesOrder=m.SubType==='Series2'?1000:0;
     directory(volumeKey,line,null,vn,seriesOrder+(m.ModeType==='Prologue'?0:m.VolumeId+1));
